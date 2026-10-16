@@ -20,6 +20,7 @@ export default function SiteHeader({ nav, logo, contact }) {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const [hidden, setHidden] = useState(false);
+  const [atFooter, setAtFooter] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const panelRef = useRef(null);
   const toggleRef = useRef(null);
@@ -30,6 +31,17 @@ export default function SiteHeader({ nav, logo, contact }) {
     setLastPath(pathname);
     setOpen(false);
   }
+
+  // Hide the header once the footer reaches the upper part of the screen.
+  useEffect(() => {
+    const footer = document.querySelector('footer');
+    if (!footer) return;
+    const io = new IntersectionObserver(([entry]) => setAtFooter(entry.isIntersecting), {
+      rootMargin: '0px 0px -40% 0px',
+    });
+    io.observe(footer);
+    return () => io.disconnect();
+  }, []);
 
   useEffect(() => {
     let lastY = window.scrollY;
@@ -97,7 +109,7 @@ export default function SiteHeader({ nav, logo, contact }) {
 
   return (
     <header
-      className={`${styles.header} ${hidden && !open ? styles.hidden : ''} ${scrolled ? styles.scrolled : ''} ${open ? styles.open : ''}`}
+      className={`${styles.header} ${(hidden || atFooter) && !open ? styles.hidden : ''} ${scrolled ? styles.scrolled : ''} ${open ? styles.open : ''}`}
     >
       <div className={styles.bar}>
         <Link href="/" className={styles.brand} aria-label="Alaya Ecolodge — home">
