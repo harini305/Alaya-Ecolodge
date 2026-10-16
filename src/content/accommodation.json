@@ -1,0 +1,629 @@
+{
+  "_source": "Built from docs/source-audit/data/cottages.json (live site, 2026-10-16). name/type/description/offers are verbatim (typos preserved, see docs/implementation/content-review.md). facts are display values taken from the source only where list and panel agree; null = conflicting in the source, so not shown publicly. source.* keeps the original strings for later resolution.",
+  "meta": {
+    "title": "accommodation | Alaya Ecolodge",
+    "description": "Alaya, as a bed & breakfast, includes a number of cozy traditional wooden cottages, a multi-functional hall, and swimming pool."
+  },
+  "hero": {
+    "image": "7c2410_c4d680db455648249dbea29d2ef4b6f1~mv2.jpg",
+    "alt": "Panorama of the Alaya gardens and cottages with the pool in the distance",
+    "focal": "50% 50%"
+  },
+  "intro": {
+    "heading": "Your Stay,the Natural Way",
+    "paragraphs": [
+      "Whether you're seeking solitude in a cozy private cottage or planning a group retreat, Alaya offers restful accommodation in harmony with nature.",
+      "Our eco-friendly lodgings are designed for deep rest and connection. Each space is crafted with care—merging rustic charm and modern essentials, surrounded by gardens, trees, and birdsong. From traditional wooden houses to open-air lodges, every detail honors the land and minimizes impact.",
+      "Wake up to the sounds of nature. Breathe in fresh mountain air. Stay gently, tread lightly.",
+      "Alaya Ecolodge wants to celebrate the local culture and produce of the bioregion, so we have named our cottages after the side dishes of a “Tumpeng” which is a popular Indonesian celebration food."
+    ],
+    "images": [
+      {
+        "id": "7c2410_dd177c0add804841aeb9b336bd658751~mv2.jpeg",
+        "alt": "Breakfast",
+        "caption": "Breakfast"
+      },
+      {
+        "id": "7c2410_c4f3d7605f564276a61967e52916f53b~mv2.jpg",
+        "alt": "Tumpeng",
+        "caption": "Tumpeng"
+      },
+      {
+        "id": "7c2410_32d5b6c7214c4ef588dc2f40a6881efb~mv2.jpg",
+        "alt": "Queen Bed",
+        "caption": "Queen Bed"
+      }
+    ]
+  },
+  "closing": {
+    "image": "7c2410_c54c4c86130d404cb6a96fc769f4bd46~mv2.jpg",
+    "alt": "Mountain View"
+  },
+  "cottagesHeading": "Our Cottages",
+  "cottages": [
+    {
+      "slug": "nasi-kuning",
+      "name": "Nasi Kuning",
+      "type": "Hall Loft",
+      "description": "A cosy hall loft dorm, with the most gorgeous view of mountains, pool and gardens.",
+      "facts": {
+        "guests": "4 guests",
+        "bedrooms": "2 bedrooms",
+        "bathrooms": "1 bathroom",
+        "area": "28 m²"
+      },
+      "offers": [
+        "1st Bedroom, with 2 single beds",
+        "2nd Bedroom, with 2 single beds",
+        "1 Downstairs bathroom semi-open to sky",
+        "Area 28m2"
+      ],
+      "images": [],
+      "reviewNote": "No photographs exist in the collected assets.",
+      "source": {
+        "listSummary": "4 guests | 2 bedrooms | 28 m2",
+        "capacityLine": "4 guests | 2 bedrooms | 1 bathroom",
+        "offers": [
+          "1st Bedroom, with 2 single beds",
+          "2nd Bedroom, with 2 single beds",
+          "1 Downstairs bathroom semi-open to sky",
+          "Area 28m2"
+        ]
+      }
+    },
+    {
+      "slug": "tahu-berontak",
+      "name": "Tahu Berontak",
+      "type": "Entire Cottage",
+      "description": "A charming 2 floor heritage cottage over 250 years old, ideal for families or friends.",
+      "facts": {
+        "guests": "4 guests",
+        "bedrooms": "2 bedrooms",
+        "bathrooms": "1 bathroom",
+        "area": "73 m²"
+      },
+      "offers": [
+        "1 Upstairs bedroom, with 1 double bed (or 2 single beds)",
+        "1 Downstairs bedroom, with 2 single beds",
+        "1 Attached semi-open to sky bathroom",
+        "1 Downstairs Living Room",
+        "2 Balconies",
+        "Area 73m2"
+      ],
+      "images": [
+        {
+          "id": "2d34a4_7469efcb5df842fb90988346a5904cec~mv2.jpg",
+          "alt": "Front view of Tahu Berontak cottage with wooden balcony, stairs, and tropical garden in Pemuteran, Bali."
+        },
+        {
+          "id": "2d34a4_8a043d009d8b423bb06aae7f7b3d99d6~mv2.jpg",
+          "alt": "Twin beds with canopy drapes inside Tahu Berontak cottage, Pemuteran."
+        },
+        {
+          "id": "2d34a4_24a9dbfdebc745788c4404e6854d8b08~mv2.jpg",
+          "alt": "Wooden seating area on the balcony of Tahu Berontak cottage in Pemuteran, Bali."
+        },
+        {
+          "id": "2d34a4_e43ace4aac244ace99f33ed2ed16043d~mv2.jpg",
+          "alt": "Twin beds in the upstairs bedroom of Tahu Berontak cottage, Pemuteran."
+        },
+        {
+          "id": "2d34a4_757c5d73894f4df2bdc25c347621b0b5~mv2.jpg",
+          "alt": "Rustic wooden workstation with lamp and decor in Tahu Berontak cottage, Pemuteran."
+        },
+        {
+          "id": "2d34a4_ffe8a67d0f4d442a84ba5465f9a80817~mv2.jpg",
+          "alt": "Open-air shower with tropical decor at Tahu Berontak cottage in Pemuteran, Bali."
+        },
+        {
+          "id": "2d34a4_2f15f3e2a23a432a99ac4a4722c36565~mv2.jpg",
+          "alt": "Rustic wooden bathroom with tropical decor in Tahu Berontak cottage, Pemuteran, Bali."
+        },
+        {
+          "id": "2d34a4_73263f3958294e8abe86147a43441381~mv2.jpg",
+          "alt": "Balcony view from the upstairs bedroom in Tahu Berontak cottage, Alaya Ecolodge."
+        },
+        {
+          "id": "2d34a4_ec848426774d42fc9fd224f78365a8b7~mv2.jpg",
+          "alt": "Twin beds with canopy drapes inside Tahu Berontak cottage, Pemuteran."
+        },
+        {
+          "id": "2d34a4_6e90728deb474a8ca0029e2668b2d7e1~mv2.jpg",
+          "alt": "Twin beds with canopy drapes inside Tahu Berontak cottage, Pemuteran."
+        },
+        {
+          "id": "2d34a4_d942cbd695e14f079d907f5ffbae7e80~mv2.jpg",
+          "alt": "Single canopy bed with vibrant decor in Tahu Berontak cottage, Bali."
+        },
+        {
+          "id": "2d34a4_acffda93800b48f396716d67d61f8e72~mv2.jpg",
+          "alt": "Cozy wooden living space in Tahu Berontak cottage with tropical accents in Bali."
+        },
+        {
+          "id": "2d34a4_a24e4a1e6a8143e6bec0a6a04a27f06f~mv2.jpg",
+          "alt": "Cozy wooden balcony of Tahu Berontak cottage overlooking tropical greenery in Pemuteran."
+        },
+        {
+          "id": "2d34a4_27b33974af44481ea1a3e7aca76f944f~mv2.jpg",
+          "alt": "Rustic wooden workstation with lamp and decor in Tahu Berontak cottage, Pemuteran."
+        },
+        {
+          "id": "2d34a4_0f1bde5f4c3e4e54b5402816a6857c1d~mv2.jpg",
+          "alt": "Tahu Berontak cottage at Alaya Ecolodge, photo 15 of 23"
+        },
+        {
+          "id": "2d34a4_54e15c1abef542eca60698b244ae7fcc~mv2.jpg",
+          "alt": "Wooden balcony and entrance of Tahu Berontak cottage surrounded by greenery in Bali."
+        },
+        {
+          "id": "2d34a4_308f9dd420704891b940a66db0efb364~mv2.jpg",
+          "alt": "Side view of Tahu Berontak cottage with wooden details and tropical plants in Pemuteran."
+        },
+        {
+          "id": "2d34a4_08f8546c06434ac7b99cf0b033c38262~mv2.jpg",
+          "alt": "Handcrafted wooden staircase leading to the upper floor of Tahu Berontak cottage, Pemuteran."
+        },
+        {
+          "id": "2d34a4_8200a9c274aa46b0ad01e551db7f6f1f~mv2.jpg",
+          "alt": "Stone basin and rustic wooden mirror in the bathroom at Tahu Berontak cottage, Pemuteran."
+        },
+        {
+          "id": "2d34a4_02f2e291b3454bcb82f018cf05c2370c~mv2.jpg",
+          "alt": "Downstairs bathroom in Tahu Berontak cottage with stone basin and rustic decor in Pemuteran."
+        },
+        {
+          "id": "2d34a4_ec7d8ab4afa54f1b87753ab0bc659c16~mv2.jpg",
+          "alt": "Downstairs living room in Tahu Berontak cottage with handcrafted furniture and Balinese decor in Pemuteran."
+        },
+        {
+          "id": "2d34a4_f4236bac4cdc4512b5fe9d8d17b57fde~mv2.jpg",
+          "alt": "Rustic wooden living room in Tahu Berontak cottage with Balinese decor in Pemuteran."
+        },
+        {
+          "id": "2d34a4_d13fff9ee36148af91144c7cec45946d~mv2.jpg",
+          "alt": "Wooden seating area on the balcony of Tahu Berontak cottage in Pemuteran, Bali."
+        }
+      ],
+      "reviewNote": null,
+      "source": {
+        "listSummary": "4 guests | 2 bedrooms | 73 m2",
+        "capacityLine": "4 guests | 2 bedrooms | 1 bathroom",
+        "offers": [
+          "1 Upstairs bedroom, with 1 double bed (or 2 single beds)",
+          "1 Downstairs bedroom, with 2 single beds",
+          "1 Attached semi-open to sky bathroom",
+          "1 Downstairs Living Room",
+          "2 Balconies",
+          "Area 73m2"
+        ],
+        "formerName": "Marigold (per image alt text)"
+      }
+    },
+    {
+      "slug": "tempe-manis",
+      "name": "Tempe Manis",
+      "type": "Entier Cottage",
+      "description": "A gorgeous heritage cottage, over 120 years old, with kids playground view, ideal for families or friends.",
+      "facts": {
+        "guests": null,
+        "bedrooms": null,
+        "bathrooms": null,
+        "area": "88 m²"
+      },
+      "offers": [
+        "1 Left Bedroom: with 1 double bed (or 2 single beds)",
+        "1 Right Bedroom: with 1 double bed (or 2 single beds)",
+        "2 Attached semi-open to sky bathrooms",
+        "1 Living Room",
+        "1 Balcony",
+        "Area 88m2"
+      ],
+      "images": [
+        {
+          "id": "7c2410_512a327e4e2b4e529efa52ee91b87751~mv2.jpg",
+          "alt": "Tempe Manis cottage at Alaya Ecolodge, photo 1 of 6"
+        },
+        {
+          "id": "7c2410_88b3c5c440584b9d8017be390e197e8f~mv2.jpg",
+          "alt": "Tempe Manis cottage at Alaya Ecolodge, photo 2 of 6"
+        },
+        {
+          "id": "7c2410_a3622928e853421e9737820418f7ceff~mv2.jpg",
+          "alt": "Tempe Manis cottage at Alaya Ecolodge, photo 3 of 6"
+        },
+        {
+          "id": "7c2410_f1f0f69e93274697b57d27d608da7190~mv2.jpg",
+          "alt": "Tempe Manis cottage at Alaya Ecolodge, photo 4 of 6"
+        },
+        {
+          "id": "7c2410_7035ed3d2ebe45f4b4c9addafc6499de~mv2.jpg",
+          "alt": "Tempe Manis cottage at Alaya Ecolodge, photo 5 of 6"
+        },
+        {
+          "id": "7c2410_7bab5dea38f74625b0448d03be18f04b~mv2.jpg",
+          "alt": "Tempe Manis cottage at Alaya Ecolodge, photo 6 of 6"
+        }
+      ],
+      "reviewNote": "Name and capacity under review: the original list reads 'Tempe Manis, 6 guests | 3 bedrooms' while its detail panel reads 'Tempe Orek, 4 guests | 2 bedroom | 1 bathroom' (and its offers list says 2 bathrooms). Guests, bedrooms and bathrooms are not shown until confirmed.",
+      "source": {
+        "listSummary": "6 guests | 3 bedrooms | 88 m2",
+        "capacityLine": "4 guests | 2 bedroom | 1 bathroom",
+        "offers": [
+          "1 Left Bedroom: with 1 double bed (or 2 single beds)",
+          "1 Right Bedroom: with 1 double bed (or 2 single beds)",
+          "2 Attached semi-open to sky bathrooms",
+          "1 Living Room",
+          "1 Balcony",
+          "Area 88m2"
+        ],
+        "panelHeading": "Tempe Orek"
+      }
+    },
+    {
+      "slug": "jamur-goreng",
+      "name": "Jamur Goreng",
+      "type": "Entier Cottage",
+      "description": "An adorable heritage cottage, over 110 years old, with pool view, ideal for or couples, or family.",
+      "facts": {
+        "guests": "3 guests",
+        "bedrooms": "1 bedroom",
+        "bathrooms": "1 bathroom",
+        "area": "55 m²"
+      },
+      "offers": [
+        "1 Bedroom: with 1 queen bed, 1 single bed",
+        "1 Attached semi-open to sky bathroom",
+        "1 Balcony",
+        "Area 55m2"
+      ],
+      "images": [
+        {
+          "id": "7c2410_96552f2760334feeb03dad5d93a1921b~mv2.jpg",
+          "alt": "Jamur Goreng cottage at Alaya Ecolodge, photo 1 of 6"
+        },
+        {
+          "id": "7c2410_64ff81772bb448bb973469eed5afdc74~mv2.jpg",
+          "alt": "Jamur Goreng cottage at Alaya Ecolodge, photo 2 of 6"
+        },
+        {
+          "id": "7c2410_e78b16b0f41a4f32a5e2a068bf87d078~mv2.jpg",
+          "alt": "Jamur Goreng cottage at Alaya Ecolodge, photo 3 of 6"
+        },
+        {
+          "id": "7c2410_a6c04c1236e54286a71e400b8f5bcda3~mv2.jpg",
+          "alt": "Jamur Goreng cottage at Alaya Ecolodge, photo 4 of 6"
+        },
+        {
+          "id": "7c2410_8a20fb280cba4fdbad77116a6a7f34fd~mv2.jpg",
+          "alt": "Jamur Goreng cottage at Alaya Ecolodge, photo 5 of 6"
+        },
+        {
+          "id": "7c2410_446b937af38c4071af2bdec4a8a783b5~mv2.jpg",
+          "alt": "Jamur Goreng cottage at Alaya Ecolodge, photo 6 of 6"
+        }
+      ],
+      "reviewNote": null,
+      "source": {
+        "listSummary": "3 guests | 1 bedroom | 55 m2",
+        "capacityLine": "3 guests | 1 bedroom | 1 bathroom",
+        "offers": [
+          "1 Bedroom: with 1 queen bed, 1 single bed",
+          "1 Attached semi-open to sky bathroom",
+          "1 Balcony",
+          "Area 55m2"
+        ]
+      }
+    },
+    {
+      "slug": "jagung-perkadel",
+      "name": "Jagung Perkadel",
+      "type": "Entire Cottage",
+      "description": "A delightful heritage cottage, over 130 years old, with pool view, ideal for or couples, or family.",
+      "facts": {
+        "guests": "3 guests",
+        "bedrooms": "1 bedroom",
+        "bathrooms": "1 bathroom",
+        "area": "71 m²"
+      },
+      "offers": [
+        "1 Bedroom: with 1 queen bed, 1 single bed",
+        "1 Attached semi-open to sky bathroom",
+        "1 Balcony",
+        "Area 71m2"
+      ],
+      "images": [
+        {
+          "id": "7c2410_9bff6242f4844c3abe3ca8929d3ef85f~mv2.jpg",
+          "alt": "Jagung Perkadel cottage at Alaya Ecolodge, photo 1 of 6"
+        },
+        {
+          "id": "7c2410_93c77c0668d14b6aa7fe0df3008029a0~mv2.jpg",
+          "alt": "Jagung Perkadel cottage at Alaya Ecolodge, photo 2 of 6"
+        },
+        {
+          "id": "7c2410_a07f4b279e7c45e9bb37ee48f1739aea~mv2.jpg",
+          "alt": "Jagung Perkadel cottage at Alaya Ecolodge, photo 3 of 6"
+        },
+        {
+          "id": "7c2410_e5a7b4042c6340e2958d6fe3b7e423bf~mv2.jpg",
+          "alt": "Jagung Perkadel cottage at Alaya Ecolodge, photo 4 of 6"
+        },
+        {
+          "id": "7c2410_3904788297694e018daac4488bd40221~mv2.jpg",
+          "alt": "Jagung Perkadel cottage at Alaya Ecolodge, photo 5 of 6"
+        },
+        {
+          "id": "7c2410_c34399d526fe46acb56873efdc2d6758~mv2.jpg",
+          "alt": "Jagung Perkadel cottage at Alaya Ecolodge, photo 6 of 6"
+        }
+      ],
+      "reviewNote": null,
+      "source": {
+        "listSummary": "3 guests | 1 bedroom | 71 m2",
+        "capacityLine": "3 guests | 1 bedroom | 1 bathroom",
+        "offers": [
+          "1 Bedroom: with 1 queen bed, 1 single bed",
+          "1 Attached semi-open to sky bathroom",
+          "1 Balcony",
+          "Area 71m2"
+        ]
+      }
+    },
+    {
+      "slug": "pisang-goreng",
+      "name": "Pisang Goreng",
+      "type": "Bungalow with Garden View",
+      "description": "A traditional style cottage, with garden bonfire space view, ideal for couples or friends.",
+      "facts": {
+        "guests": "2 guests",
+        "bedrooms": "1 bedroom",
+        "bathrooms": "1 bathroom",
+        "area": "38 m²"
+      },
+      "offers": [
+        "1 Bedroom: with 2 single beds (or 1 double)",
+        "1 Attached semi-open to sky bathroom",
+        "1 Balcony",
+        "Area 38m2"
+      ],
+      "images": [],
+      "reviewNote": "No photographs exist in the collected assets.",
+      "source": {
+        "listSummary": "2 guests | 1 bedroom | 38 m2",
+        "capacityLine": "2 guests | 1 bedroom | 1 bathroom",
+        "offers": [
+          "1 Bedroom: with 2 single beds (or 1 double)",
+          "1 Attached semi-open to sky bathroom",
+          "1 Balcony",
+          "Area 38m2"
+        ]
+      }
+    },
+    {
+      "slug": "dadar-gulung",
+      "name": "Dadar Gulung",
+      "type": "Entier Cottage",
+      "description": "A raditional style cottage, with garden bonfire space view, ideal for couples or friends.",
+      "facts": {
+        "guests": "2 guests",
+        "bedrooms": "1 bedroom",
+        "bathrooms": "1 bathroom",
+        "area": "38 m²"
+      },
+      "offers": [
+        "1 Bedroom: with 2 single beds (or 1 double)",
+        "1 Attached semi-open to sky bathroom",
+        "1 Balcony",
+        "Area 38m2"
+      ],
+      "images": [],
+      "reviewNote": "No photographs exist in the collected assets.",
+      "source": {
+        "listSummary": "2 guests | 1 bedroom | 38 m2",
+        "capacityLine": "2 guests | 1 bedroom | 1 bathroom",
+        "offers": [
+          "1 Bedroom: with 2 single beds (or 1 double)",
+          "1 Attached semi-open to sky bathroom",
+          "1 Balcony",
+          "Area 38m2"
+        ]
+      }
+    },
+    {
+      "slug": "bubur-injin",
+      "name": "Bubur Injin",
+      "type": "Entire Cottage",
+      "description": "A traditional style cottage, with garden bonfire space view, ideal for couples or friends.",
+      "facts": {
+        "guests": "2 guests",
+        "bedrooms": "1 bedroom",
+        "bathrooms": "1 bathroom",
+        "area": "38 m²"
+      },
+      "offers": [
+        "1 Bedroom: with 2 single beds (or 1 double)",
+        "1 Attached semi-open to sky bathroom",
+        "1 Balcony",
+        "Area 38m2"
+      ],
+      "images": [],
+      "reviewNote": "No photographs exist in the collected assets.",
+      "source": {
+        "listSummary": "2 guests | 1 bedroom | 38 m2",
+        "capacityLine": "2 guests | 1 bedroom | 1 bathroom",
+        "offers": [
+          "1 Bedroom: with 2 single beds (or 1 double)",
+          "1 Attached semi-open to sky bathroom",
+          "1 Balcony",
+          "Area 38m2"
+        ]
+      }
+    },
+    {
+      "slug": "urap-chaya",
+      "name": "Urap Chaya",
+      "type": "Entier Cottage",
+      "description": "A colourful heritage cottage, over 85 years old, with pool view, ideal for singles or couples.",
+      "facts": {
+        "guests": "2 guests",
+        "bedrooms": "1 bedroom",
+        "bathrooms": "1 bathroom",
+        "area": "28 m²"
+      },
+      "offers": [
+        "1 Bedroom: with 1 queen bed",
+        "1 Attached bathroom with bath tub",
+        "1 Balcony",
+        "Area 28m2"
+      ],
+      "images": [
+        {
+          "id": "7c2410_eb49d03abb444802856f1cc574f51674~mv2.jpg",
+          "alt": "Urap Chaya cottage at Alaya Ecolodge, photo 1 of 6"
+        },
+        {
+          "id": "7c2410_6fde1074ef1241e282644d91351c37e0~mv2.jpg",
+          "alt": "Urap Chaya cottage at Alaya Ecolodge, photo 2 of 6"
+        },
+        {
+          "id": "7c2410_9fce716c4a5a4322b42a3111a2ccc8df~mv2.jpg",
+          "alt": "Urap Chaya cottage at Alaya Ecolodge, photo 3 of 6"
+        },
+        {
+          "id": "7c2410_3d739cda0c1948dfae5267794b70567e~mv2.jpg",
+          "alt": "Urap Chaya cottage at Alaya Ecolodge, photo 4 of 6"
+        },
+        {
+          "id": "7c2410_523555ed1a50472eb5d869a5be3a97f0~mv2.jpg",
+          "alt": "Urap Chaya cottage at Alaya Ecolodge, photo 5 of 6"
+        },
+        {
+          "id": "7c2410_467137c24a2749ccb90be84b79fe1169~mv2.jpg",
+          "alt": "Urap Chaya cottage at Alaya Ecolodge, photo 6 of 6"
+        }
+      ],
+      "reviewNote": null,
+      "source": {
+        "listSummary": "2 guests | 1 bedroom | 28 m2",
+        "capacityLine": "2 guests | 1 bedroom | 1 bathroom",
+        "offers": [
+          "1 Bedroom: with 1 queen bed",
+          "1 Attached bathroom with bath tub",
+          "1 Balcony",
+          "Area 28m2"
+        ]
+      }
+    },
+    {
+      "slug": "sate-saus",
+      "name": "Sate Saus",
+      "type": "Entire Cottage",
+      "description": "A sweet heritage cottage, over a 100 years old, with pool window view, ideal for single.",
+      "facts": {
+        "guests": "1 guest",
+        "bedrooms": "1 bedroom",
+        "bathrooms": "1 bathroom",
+        "area": null
+      },
+      "offers": [
+        "1 Bedroom: with 1 single bed",
+        "1 Attached bathroom",
+        "1 Balcony"
+      ],
+      "images": [
+        {
+          "id": "7c2410_61acd0e21b1e49d8846feefe0522a2ad~mv2.jpg",
+          "alt": "Sate Saus cottage at Alaya Ecolodge, photo 1 of 3"
+        },
+        {
+          "id": "7c2410_f3451584f832495fba30c67e28ff9ed7~mv2.jpg",
+          "alt": "Sate Saus cottage at Alaya Ecolodge, photo 2 of 3"
+        },
+        {
+          "id": "7c2410_0eac4f54988d48bfb3f5a1a182b4cb66~mv2.jpg",
+          "alt": "Sate Saus cottage at Alaya Ecolodge, photo 3 of 3"
+        }
+      ],
+      "reviewNote": "Room size under review: list says 15 m2, detail panel says 14m2 (Sambal Tomat shows the reverse). Area not shown until confirmed.",
+      "source": {
+        "listSummary": "1 guest | 1 bedroom | 15 m2",
+        "capacityLine": "1 guest | 1 bedroom | 1 bathroom",
+        "offers": [
+          "1 Bedroom: with 1 single bed",
+          "1 Attached bathroom",
+          "1 Balcony",
+          "Area 14m2"
+        ]
+      }
+    },
+    {
+      "slug": "sambal-tomat",
+      "name": "Sambal Tomat",
+      "type": "Entire Cottage",
+      "description": "A cute heritage cottage, over 75 years old, with pool window view, ideal for single.",
+      "facts": {
+        "guests": "1 guest",
+        "bedrooms": "1 bedroom",
+        "bathrooms": "1 bathroom",
+        "area": null
+      },
+      "offers": [
+        "1 Bedroom: with 1 single bed",
+        "1 Attached semi-open to sky bathroom",
+        "1 Balcony"
+      ],
+      "images": [
+        {
+          "id": "7c2410_3efec1ccffc54eb182c7a890cc95723d~mv2.jpg",
+          "alt": "Sambal Tomat cottage at Alaya Ecolodge, photo 1 of 3"
+        },
+        {
+          "id": "7c2410_f8693dfbfff54ddfb967856949bfd302~mv2.jpg",
+          "alt": "Sambal Tomat cottage at Alaya Ecolodge, photo 2 of 3"
+        },
+        {
+          "id": "7c2410_a5dce93d9c2149cb8c202c76393989bb~mv2.jpg",
+          "alt": "Sambal Tomat cottage at Alaya Ecolodge, photo 3 of 3"
+        }
+      ],
+      "reviewNote": "Room size under review: list says 14 m2, detail panel says 15m2 (Sate Saus shows the reverse). Area not shown until confirmed.",
+      "source": {
+        "listSummary": "1 guests | 1 bedroom | 14 m2",
+        "capacityLine": "1 guest | 1 bedroom| 1 bathroom",
+        "offers": [
+          "1 Bedroom: with 1 single bed",
+          "1 Attached semi-open to sky bathroom",
+          "1 Balcony",
+          "Area 15m2"
+        ]
+      }
+    }
+  ],
+  "amenities": {
+    "heading": "Other Amenities",
+    "complementaryHeading": "Complementary",
+    "complementary": [
+      [
+        "Free Wifi",
+        "Hot Water",
+        "Bonfire Space"
+      ],
+      [
+        "Swimming Pool",
+        "Massage Cottage",
+        "Kids Play Cottage"
+      ],
+      [
+        "Multifunctional Hall Dining Area",
+        "Multifunctional Hall Lounging Area",
+        "Multifunctional Hall Yoga Shala Space"
+      ]
+    ],
+    "additionalChargeHeading": "Additional Charge",
+    "additionalCharge": [
+      "Additional Beds",
+      "Laundry Service",
+      "Room Cleaning"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+/* ==========================================================================
+   Alaya Ecolodge — design tokens + base
+   Palette: audit-verified brand colours (docs/source-audit/06-…).
+   ========================================================================== */
+
+:root {
+  /* Brand (verified) */
+  --green: #44a774;          /* primary desktop green: logo tile, accents */
+  --green-soft: #60a578;     /* mobile header reference */
+  --emerald: #49796b;        /* button accent */
+  --earth: #4a412a;          /* text + headings */
+  --cream: #ede7d1;          /* footer panel */
+  --sage: #c4cdb7;           /* retreat surfaces */
+  --sage-light: #d9dfd1;
+  --peach-light: #ffeed9;    /* retreat intro */
+  --peach: #f0d9c2;
+  --sky: #b2d4ea;            /* contact rows */
+
+  /* Derived (same hues, tuned for contrast) */
+  --green-deep: #2e7a53;     /* header bar: white text ≈ 5.1:1 (AA) */
+  --emerald-deep: #2c4a41;   /* dark editorial bands: cream text ≈ 8:1 */
+  --emerald-ink: #213a33;
+  --paper: #f8f4ea;          /* page background: lightened cream */
+  --paper-2: #f2ecdc;
+  --earth-soft: #6b6148;     /* secondary text on paper ≈ 5.6:1 */
+  --line: rgb(74 65 42 / 0.16);
+  --line-strong: rgb(74 65 42 / 0.32);
+  --on-dark: #f6f1e2;
+  --on-dark-soft: rgb(246 241 226 / 0.78);
+  --focus: #e6a04a;          /* warm focus ring, visible on green, paper and photos */
+
+  /* Type */
+  --ff-script: var(--font-script), 'Brush Script MT', cursive;
+  --ff-serif: var(--font-serif), Georgia, 'Times New Roman', serif;
+  --ff-sans: var(--font-sans), system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
+  --ff-display: var(--font-display), Georgia, serif;
+
+  --fs-wordmark: clamp(5.5rem, 4rem + 11vw, 13.5rem);
+  --fs-h1: clamp(2.6rem, 1.6rem + 4.4vw, 5.6rem);
+  --fs-h2: clamp(2.1rem, 1.5rem + 2.6vw, 3.9rem);
+  --fs-script: clamp(2.6rem, 1.8rem + 3.4vw, 5rem);
+  --fs-h3: clamp(1.45rem, 1.2rem + 1vw, 2.1rem);
+  --fs-h4: clamp(1.15rem, 1.05rem + 0.4vw, 1.35rem);
+  --fs-lead: clamp(1.2rem, 1.05rem + 0.65vw, 1.6rem);
+  --fs-body: clamp(1rem, 0.96rem + 0.18vw, 1.0875rem);
+  --fs-small: 0.9rem;
+  --fs-meta: 0.78rem;
+
+  --lh-tight: 1.08;
+  --lh-snug: 1.3;
+  --lh-body: 1.72;
+  --measure: 62ch;
+
+  /* Space + shape */
+  --gutter: clamp(1.1rem, 0.6rem + 2.4vw, 3rem);
+  --section: clamp(2.25rem, 1.6rem + 2.2vw, 3.75rem);
+  --section-sm: clamp(1.5rem, 1.1rem + 1.4vw, 2.5rem);
+  --head-gap: clamp(1.1rem, 0.8rem + 1vw, 1.75rem); /* heading -> content */
+  --end-pad: clamp(2rem, 1.5rem + 1.6vw, 3rem); /* last text section -> footer */
+  --maxw: 1440px;
+  --radius: clamp(14px, 1vw + 8px, 22px);
+  --radius-lg: clamp(20px, 2vw + 10px, 36px);
+  --header-h: 92px;
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@media (max-width: 760px) {
+  :root { --header-h: 74px; }
+}
+
+/* ---------- Reset ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; scroll-padding-top: calc(var(--header-h) + 16px); }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--earth);
+  font-family: var(--ff-sans);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  letter-spacing: -0.005em;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: clip;
+}
+img, video, svg, iframe { display: block; max-width: 100%; }
+img { height: auto; }
+h1, h2, h3, h4, h5, h6, p, ul, ol, dl, dd, figure, blockquote { margin: 0; }
+ul[role='list'], ol[role='list'] { list-style: none; padding: 0; }
+a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 0.22em; }
+button { font: inherit; color: inherit; }
+::selection { background: var(--sage); color: var(--earth); }
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* Page endings: closing photos and the About contact section each leave
+   --end-pad before the footer, so nothing touches the video band. */
+
+/* ---------- Utilities ---------- */
+.container {
+  width: 100%;
+  max-width: var(--maxw);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+.visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0);
+  white-space: nowrap; border: 0;
+}
+.skip-link {
+  position: fixed; left: 1rem; top: -100px; z-index: 200;
+  background: var(--paper); color: var(--earth);
+  padding: 0.75rem 1.1rem; border-radius: 999px; font-weight: 600;
+  transition: top 0.2s;
+}
+.skip-link:focus { top: 1rem; }
+
+/* Shared type roles */
+.eyebrow {
+  font-family: var(--ff-sans);
+  font-size: var(--fs-meta);
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--earth-soft);
+}
+.script { font-family: var(--ff-script); font-weight: 400; letter-spacing: 0; }
+.prose p + p { margin-top: 1.1em; }
+.prose { max-width: var(--measure); }
+
+/* Inline text links inside prose */
+.text-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  transition: text-decoration-color 0.25s;
+}
+.text-link:hover { text-decoration-color: currentColor; }
+
+/* Line-mask wrapper used by text reveals */
+/* Never clip text: script ascenders/descenders extend beyond the line box. */
+.line-mask { display: block; overflow: visible; }
+.line-mask > * { display: block; }
+.word { display: inline-block; }
+
+/* ==========================================================================
+   Motion initial states.
+   `html.motion` is set by an inline head script only when the visitor has not
+   asked for reduced motion. Content is never hidden otherwise, and a CSS
+   fallback reveals everything if the GSAP layer fails to initialise.
+   ========================================================================== */
+html.motion [data-reveal],
+html.motion [data-hero-line] > * { opacity: 0; }
+html.motion [data-word] { opacity: 0; transform: translateY(35%); }
+html.motion [hidden] [data-word],
+html.motion [data-hero] [data-word] { opacity: 1; transform: none; }
+html.motion [data-reveal-image] { clip-path: inset(10% 6% 10% 6% round var(--radius)); }
+
+html.motion:not(.motion-ready) [data-reveal],
+html.motion:not(.motion-ready) [data-word],
+html.motion:not(.motion-ready) [data-hero-line] > *,
+html.motion:not(.motion-ready) [data-reveal-image] {
+  animation: motion-fallback 0.6s ease 2.4s forwards;
+}
+@keyframes motion-fallback {
+  to { opacity: 1; clip-path: inset(0 0 0 0 round 0); transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

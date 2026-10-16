@@ -1,0 +1,2082 @@
+{
+ "7c2410_6ae78648ee9a42db9eed6ddc2477e3fa~mv2.png": {
+  "src": "/media/brand/logo-white",
+  "w": 2181,
+  "h": 2122,
+  "widths": [
+   160,
+   320,
+   640
+  ],
+  "alpha": true,
+  "original": "source-assets/original/global/7c2410_6ae78648ee9a42db9eed6ddc2477e3fa~mv2.png"
+ },
+ "7c2410_89d7dacc803240879d46f5a2444334d7~mv2.jpg": {
+  "src": "/media/brand/logo-tile",
+  "w": 2929,
+  "h": 2868,
+  "widths": [
+   160,
+   320,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/global/7c2410_89d7dacc803240879d46f5a2444334d7~mv2.jpg"
+ },
+ "7c2410_8793da3716a340c0b3f7dca38b47fc0ff000.jpg": {
+  "src": "/media/global/footer-aerial-poster",
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1024,
+   1600,
+   2400
+  ],
+  "alpha": false,
+  "original": "source-assets/original/global/7c2410_8793da3716a340c0b3f7dca38b47fc0ff000.jpg"
+ },
+ "7c2410_2b99bc4a737e44868d87bdabcbd392d5~mv2.jpg": {
+  "src": "/media/home/hero-pool-garden",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   640,
+   1024,
+   1600,
+   2400
+  ],
+  "alpha": false,
+  "original": "source-assets/original/home/7c2410_2b99bc4a737e44868d87bdabcbd392d5~mv2.jpg"
+ },
+ "7c2410_04ba3a0f62b34288b0927d579d255c2b~mv2.jpg": {
+  "src": "/media/home/experience-cottages-1",
+  "w": 1080,
+  "h": 1068,
+  "widths": [
+   240,
+   480,
+   960,
+   1080
+  ],
+  "alpha": false,
+  "original": "source-assets/original/home/7c2410_04ba3a0f62b34288b0927d579d255c2b~mv2.jpg"
+ },
+ "7c2410_d6340f2999db4fb9a7ed38fde10227ea~mv2.jpg": {
+  "src": "/media/home/experience-cottages-2",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/home/7c2410_d6340f2999db4fb9a7ed38fde10227ea~mv2.jpg"
+ },
+ "7c2410_faa960a73a61448688aa3505351a9b54~mv2.jpg": {
+  "src": "/media/home/experience-cottages-3",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/home/7c2410_faa960a73a61448688aa3505351a9b54~mv2.jpg"
+ },
+ "7c2410_b42b66df03bf4c4aa9ccf7e45eb729fe~mv2.jpg": {
+  "src": "/media/home/experience-retreats-1",
+  "w": 1080,
+  "h": 1076,
+  "widths": [
+   240,
+   480,
+   960,
+   1080
+  ],
+  "alpha": false,
+  "original": "source-assets/original/home/7c2410_b42b66df03bf4c4aa9ccf7e45eb729fe~mv2.jpg"
+ },
+ "7c2410_31bec048d0be4bab812f2ebd48341dad~mv2.jpg": {
+  "src": "/media/home/experience-retreats-2",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/home/7c2410_31bec048d0be4bab812f2ebd48341dad~mv2.jpg"
+ },
+ "7c2410_296204b8831e4aea8ef6b476580e75e6~mv2.jpeg": {
+  "src": "/media/home/experience-retreats-3",
+  "w": 2832,
+  "h": 3776,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/home/7c2410_296204b8831e4aea8ef6b476580e75e6~mv2.jpeg"
+ },
+ "7c2410_287a13890f834f6a9c2e940498a53b0c~mv2.jpg": {
+  "src": "/media/home/experience-activities-1",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/home/7c2410_287a13890f834f6a9c2e940498a53b0c~mv2.jpg"
+ },
+ "7c2410_421f7cfde2a8421f8802beb0c02e2233~mv2.jpeg": {
+  "src": "/media/home/experience-activities-2",
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   240,
+   480,
+   960,
+   1200
+  ],
+  "alpha": false,
+  "original": "source-assets/original/home/7c2410_421f7cfde2a8421f8802beb0c02e2233~mv2.jpeg"
+ },
+ "7c2410_398569683994414d860fc4153285ca24~mv2.jpg": {
+  "src": "/media/home/experience-activities-3",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/home/7c2410_398569683994414d860fc4153285ca24~mv2.jpg"
+ },
+ "7c2410_c4d680db455648249dbea29d2ef4b6f1~mv2.jpg": {
+  "src": "/media/accommodation/hero-garden-panorama",
+  "w": 10919,
+  "h": 3432,
+  "widths": [
+   640,
+   1024,
+   1600,
+   2400
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_c4d680db455648249dbea29d2ef4b6f1~mv2.jpg"
+ },
+ "7c2410_dd177c0add804841aeb9b336bd658751~mv2.jpeg": {
+  "src": "/media/accommodation/intro-breakfast",
+  "w": 3776,
+  "h": 2832,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_dd177c0add804841aeb9b336bd658751~mv2.jpeg"
+ },
+ "7c2410_c4f3d7605f564276a61967e52916f53b~mv2.jpg": {
+  "src": "/media/accommodation/intro-tumpeng",
+  "w": 1600,
+  "h": 1066,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_c4f3d7605f564276a61967e52916f53b~mv2.jpg"
+ },
+ "7c2410_32d5b6c7214c4ef588dc2f40a6881efb~mv2.jpg": {
+  "src": "/media/accommodation/intro-queen-bed",
+  "w": 2308,
+  "h": 2988,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_32d5b6c7214c4ef588dc2f40a6881efb~mv2.jpg"
+ },
+ "7c2410_c54c4c86130d404cb6a96fc769f4bd46~mv2.jpg": {
+  "src": "/media/accommodation/closing-mountain-view",
+  "w": 2048,
+  "h": 911,
+  "widths": [
+   640,
+   1024,
+   1600,
+   2048
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_c54c4c86130d404cb6a96fc769f4bd46~mv2.jpg"
+ },
+ "2d34a4_7469efcb5df842fb90988346a5904cec~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-01",
+  "w": 2250,
+  "h": 2250,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_7469efcb5df842fb90988346a5904cec~mv2.jpg"
+ },
+ "2d34a4_8a043d009d8b423bb06aae7f7b3d99d6~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-02",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_8a043d009d8b423bb06aae7f7b3d99d6~mv2.jpg"
+ },
+ "2d34a4_24a9dbfdebc745788c4404e6854d8b08~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-03",
+  "w": 3006,
+  "h": 4007,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_24a9dbfdebc745788c4404e6854d8b08~mv2.jpg"
+ },
+ "2d34a4_e43ace4aac244ace99f33ed2ed16043d~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-04",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_e43ace4aac244ace99f33ed2ed16043d~mv2.jpg"
+ },
+ "2d34a4_757c5d73894f4df2bdc25c347621b0b5~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-05",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_757c5d73894f4df2bdc25c347621b0b5~mv2.jpg"
+ },
+ "2d34a4_ffe8a67d0f4d442a84ba5465f9a80817~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-06",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_ffe8a67d0f4d442a84ba5465f9a80817~mv2.jpg"
+ },
+ "2d34a4_2f15f3e2a23a432a99ac4a4722c36565~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-07",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_2f15f3e2a23a432a99ac4a4722c36565~mv2.jpg"
+ },
+ "2d34a4_73263f3958294e8abe86147a43441381~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-08",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_73263f3958294e8abe86147a43441381~mv2.jpg"
+ },
+ "2d34a4_ec848426774d42fc9fd224f78365a8b7~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-09",
+  "w": 3023,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_ec848426774d42fc9fd224f78365a8b7~mv2.jpg"
+ },
+ "2d34a4_6e90728deb474a8ca0029e2668b2d7e1~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-10",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_6e90728deb474a8ca0029e2668b2d7e1~mv2.jpg"
+ },
+ "2d34a4_d942cbd695e14f079d907f5ffbae7e80~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-11",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_d942cbd695e14f079d907f5ffbae7e80~mv2.jpg"
+ },
+ "2d34a4_acffda93800b48f396716d67d61f8e72~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-12",
+  "w": 3072,
+  "h": 3800,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_acffda93800b48f396716d67d61f8e72~mv2.jpg"
+ },
+ "2d34a4_a24e4a1e6a8143e6bec0a6a04a27f06f~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-13",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_a24e4a1e6a8143e6bec0a6a04a27f06f~mv2.jpg"
+ },
+ "2d34a4_27b33974af44481ea1a3e7aca76f944f~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-14",
+  "w": 2944,
+  "h": 3987,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_27b33974af44481ea1a3e7aca76f944f~mv2.jpg"
+ },
+ "2d34a4_0f1bde5f4c3e4e54b5402816a6857c1d~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-15",
+  "w": 2615,
+  "h": 3661,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_0f1bde5f4c3e4e54b5402816a6857c1d~mv2.jpg"
+ },
+ "2d34a4_54e15c1abef542eca60698b244ae7fcc~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-16",
+  "w": 2876,
+  "h": 3788,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_54e15c1abef542eca60698b244ae7fcc~mv2.jpg"
+ },
+ "2d34a4_308f9dd420704891b940a66db0efb364~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-17",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_308f9dd420704891b940a66db0efb364~mv2.jpg"
+ },
+ "2d34a4_08f8546c06434ac7b99cf0b033c38262~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-18",
+  "w": 2959,
+  "h": 3946,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_08f8546c06434ac7b99cf0b033c38262~mv2.jpg"
+ },
+ "2d34a4_8200a9c274aa46b0ad01e551db7f6f1f~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-19",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_8200a9c274aa46b0ad01e551db7f6f1f~mv2.jpg"
+ },
+ "2d34a4_02f2e291b3454bcb82f018cf05c2370c~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-20",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_02f2e291b3454bcb82f018cf05c2370c~mv2.jpg"
+ },
+ "2d34a4_ec7d8ab4afa54f1b87753ab0bc659c16~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-21",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_ec7d8ab4afa54f1b87753ab0bc659c16~mv2.jpg"
+ },
+ "2d34a4_f4236bac4cdc4512b5fe9d8d17b57fde~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-22",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_f4236bac4cdc4512b5fe9d8d17b57fde~mv2.jpg"
+ },
+ "2d34a4_d13fff9ee36148af91144c7cec45946d~mv2.jpg": {
+  "src": "/media/accommodation/tahu-berontak-23",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/2d34a4_d13fff9ee36148af91144c7cec45946d~mv2.jpg"
+ },
+ "7c2410_512a327e4e2b4e529efa52ee91b87751~mv2.jpg": {
+  "src": "/media/accommodation/tempe-manis-01",
+  "w": 2250,
+  "h": 1835,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_512a327e4e2b4e529efa52ee91b87751~mv2.jpg"
+ },
+ "7c2410_88b3c5c440584b9d8017be390e197e8f~mv2.jpg": {
+  "src": "/media/accommodation/tempe-manis-02",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_88b3c5c440584b9d8017be390e197e8f~mv2.jpg"
+ },
+ "7c2410_a3622928e853421e9737820418f7ceff~mv2.jpg": {
+  "src": "/media/accommodation/tempe-manis-03",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_a3622928e853421e9737820418f7ceff~mv2.jpg"
+ },
+ "7c2410_f1f0f69e93274697b57d27d608da7190~mv2.jpg": {
+  "src": "/media/accommodation/tempe-manis-04",
+  "w": 2448,
+  "h": 3264,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_f1f0f69e93274697b57d27d608da7190~mv2.jpg"
+ },
+ "7c2410_7035ed3d2ebe45f4b4c9addafc6499de~mv2.jpg": {
+  "src": "/media/accommodation/tempe-manis-05",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_7035ed3d2ebe45f4b4c9addafc6499de~mv2.jpg"
+ },
+ "7c2410_7bab5dea38f74625b0448d03be18f04b~mv2.jpg": {
+  "src": "/media/accommodation/tempe-manis-06",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_7bab5dea38f74625b0448d03be18f04b~mv2.jpg"
+ },
+ "7c2410_96552f2760334feeb03dad5d93a1921b~mv2.jpg": {
+  "src": "/media/accommodation/jamur-goreng-01",
+  "w": 2175,
+  "h": 1954,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_96552f2760334feeb03dad5d93a1921b~mv2.jpg"
+ },
+ "7c2410_64ff81772bb448bb973469eed5afdc74~mv2.jpg": {
+  "src": "/media/accommodation/jamur-goreng-02",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_64ff81772bb448bb973469eed5afdc74~mv2.jpg"
+ },
+ "7c2410_e78b16b0f41a4f32a5e2a068bf87d078~mv2.jpg": {
+  "src": "/media/accommodation/jamur-goreng-03",
+  "w": 3057,
+  "h": 4080,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_e78b16b0f41a4f32a5e2a068bf87d078~mv2.jpg"
+ },
+ "7c2410_a6c04c1236e54286a71e400b8f5bcda3~mv2.jpg": {
+  "src": "/media/accommodation/jamur-goreng-04",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_a6c04c1236e54286a71e400b8f5bcda3~mv2.jpg"
+ },
+ "7c2410_8a20fb280cba4fdbad77116a6a7f34fd~mv2.jpg": {
+  "src": "/media/accommodation/jamur-goreng-05",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_8a20fb280cba4fdbad77116a6a7f34fd~mv2.jpg"
+ },
+ "7c2410_446b937af38c4071af2bdec4a8a783b5~mv2.jpg": {
+  "src": "/media/accommodation/jamur-goreng-06",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_446b937af38c4071af2bdec4a8a783b5~mv2.jpg"
+ },
+ "7c2410_9bff6242f4844c3abe3ca8929d3ef85f~mv2.jpg": {
+  "src": "/media/accommodation/jagung-perkadel-01",
+  "w": 2250,
+  "h": 1411,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_9bff6242f4844c3abe3ca8929d3ef85f~mv2.jpg"
+ },
+ "7c2410_93c77c0668d14b6aa7fe0df3008029a0~mv2.jpg": {
+  "src": "/media/accommodation/jagung-perkadel-02",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_93c77c0668d14b6aa7fe0df3008029a0~mv2.jpg"
+ },
+ "7c2410_a07f4b279e7c45e9bb37ee48f1739aea~mv2.jpg": {
+  "src": "/media/accommodation/jagung-perkadel-03",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_a07f4b279e7c45e9bb37ee48f1739aea~mv2.jpg"
+ },
+ "7c2410_e5a7b4042c6340e2958d6fe3b7e423bf~mv2.jpg": {
+  "src": "/media/accommodation/jagung-perkadel-04",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_e5a7b4042c6340e2958d6fe3b7e423bf~mv2.jpg"
+ },
+ "7c2410_3904788297694e018daac4488bd40221~mv2.jpg": {
+  "src": "/media/accommodation/jagung-perkadel-05",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_3904788297694e018daac4488bd40221~mv2.jpg"
+ },
+ "7c2410_c34399d526fe46acb56873efdc2d6758~mv2.jpg": {
+  "src": "/media/accommodation/jagung-perkadel-06",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_c34399d526fe46acb56873efdc2d6758~mv2.jpg"
+ },
+ "7c2410_eb49d03abb444802856f1cc574f51674~mv2.jpg": {
+  "src": "/media/accommodation/urap-chaya-01",
+  "w": 2250,
+  "h": 1940,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_eb49d03abb444802856f1cc574f51674~mv2.jpg"
+ },
+ "7c2410_6fde1074ef1241e282644d91351c37e0~mv2.jpg": {
+  "src": "/media/accommodation/urap-chaya-02",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_6fde1074ef1241e282644d91351c37e0~mv2.jpg"
+ },
+ "7c2410_9fce716c4a5a4322b42a3111a2ccc8df~mv2.jpg": {
+  "src": "/media/accommodation/urap-chaya-03",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_9fce716c4a5a4322b42a3111a2ccc8df~mv2.jpg"
+ },
+ "7c2410_3d739cda0c1948dfae5267794b70567e~mv2.jpg": {
+  "src": "/media/accommodation/urap-chaya-04",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_3d739cda0c1948dfae5267794b70567e~mv2.jpg"
+ },
+ "7c2410_523555ed1a50472eb5d869a5be3a97f0~mv2.jpg": {
+  "src": "/media/accommodation/urap-chaya-05",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_523555ed1a50472eb5d869a5be3a97f0~mv2.jpg"
+ },
+ "7c2410_467137c24a2749ccb90be84b79fe1169~mv2.jpg": {
+  "src": "/media/accommodation/urap-chaya-06",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_467137c24a2749ccb90be84b79fe1169~mv2.jpg"
+ },
+ "7c2410_61acd0e21b1e49d8846feefe0522a2ad~mv2.jpg": {
+  "src": "/media/accommodation/sate-saus-01",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_61acd0e21b1e49d8846feefe0522a2ad~mv2.jpg"
+ },
+ "7c2410_f3451584f832495fba30c67e28ff9ed7~mv2.jpg": {
+  "src": "/media/accommodation/sate-saus-02",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_f3451584f832495fba30c67e28ff9ed7~mv2.jpg"
+ },
+ "7c2410_0eac4f54988d48bfb3f5a1a182b4cb66~mv2.jpg": {
+  "src": "/media/accommodation/sate-saus-03",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_0eac4f54988d48bfb3f5a1a182b4cb66~mv2.jpg"
+ },
+ "7c2410_3efec1ccffc54eb182c7a890cc95723d~mv2.jpg": {
+  "src": "/media/accommodation/sambal-tomat-01",
+  "w": 2448,
+  "h": 3264,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_3efec1ccffc54eb182c7a890cc95723d~mv2.jpg"
+ },
+ "7c2410_f8693dfbfff54ddfb967856949bfd302~mv2.jpg": {
+  "src": "/media/accommodation/sambal-tomat-02",
+  "w": 2448,
+  "h": 3264,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_f8693dfbfff54ddfb967856949bfd302~mv2.jpg"
+ },
+ "7c2410_a5dce93d9c2149cb8c202c76393989bb~mv2.jpg": {
+  "src": "/media/accommodation/sambal-tomat-03",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/accommodation/7c2410_a5dce93d9c2149cb8c202c76393989bb~mv2.jpg"
+ },
+ "7c2410_d4ac898d5465449e9718d75ff812c15d~mv2.jpg": {
+  "src": "/media/retreats/hero-group-garden",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   640,
+   1024,
+   1600,
+   2048
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_d4ac898d5465449e9718d75ff812c15d~mv2.jpg"
+ },
+ "7c2410_dec15f811a2841ee91fd9932bb92ed43~mv2.jpg": {
+  "src": "/media/retreats/closing",
+  "w": 6408,
+  "h": 3568,
+  "widths": [
+   640,
+   1024,
+   1600,
+   2400
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_dec15f811a2841ee91fd9932bb92ed43~mv2.jpg"
+ },
+ "4490f9_561c5d56e2864c4bb35d423411e74050~mv2.jpg": {
+  "src": "/media/retreats/truth-based-relationships-retreat-01",
+  "w": 3504,
+  "h": 2336,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_561c5d56e2864c4bb35d423411e74050~mv2.jpg"
+ },
+ "4490f9_e775c1237d4143eca7ba08121fb90ee7~mv2.png": {
+  "src": "/media/retreats/truth-based-relationships-retreat-02",
+  "w": 492,
+  "h": 490,
+  "widths": [
+   240,
+   480,
+   492
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_e775c1237d4143eca7ba08121fb90ee7~mv2.png"
+ },
+ "4490f9_885240459a554c5792f5d2a9113caed2~mv2.png": {
+  "src": "/media/retreats/truth-based-relationships-retreat-03",
+  "w": 185,
+  "h": 188,
+  "widths": [
+   185
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_885240459a554c5792f5d2a9113caed2~mv2.png"
+ },
+ "4490f9_7ddff6e9ea8d4fb3b63781f9908c35c2~mv2.jpeg": {
+  "src": "/media/retreats/truth-based-relationships-retreat-04",
+  "w": 1370,
+  "h": 899,
+  "widths": [
+   240,
+   480,
+   960,
+   1370
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_7ddff6e9ea8d4fb3b63781f9908c35c2~mv2.jpeg"
+ },
+ "4490f9_a6075791c82e4d37ac2d60b1114829ac~mv2.jpg": {
+  "src": "/media/retreats/regenerative-reset-retreat-01",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_a6075791c82e4d37ac2d60b1114829ac~mv2.jpg"
+ },
+ "4490f9_7269be05265d4660aaaea959d610222d~mv2.jpeg": {
+  "src": "/media/retreats/regenerative-reset-retreat-02",
+  "w": 1066,
+  "h": 1600,
+  "widths": [
+   240,
+   480,
+   960,
+   1066
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_7269be05265d4660aaaea959d610222d~mv2.jpeg"
+ },
+ "4490f9_d05ed516e17d4539908153ff4a178315~mv2.jpg": {
+  "src": "/media/retreats/regenerative-reset-retreat-03",
+  "w": 2000,
+  "h": 2000,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_d05ed516e17d4539908153ff4a178315~mv2.jpg"
+ },
+ "4490f9_7a0db548f13b41b1af2d8799527fc9d7~mv2.jpeg": {
+  "src": "/media/retreats/regenerative-reset-retreat-04",
+  "w": 1066,
+  "h": 1600,
+  "widths": [
+   240,
+   480,
+   960,
+   1066
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_7a0db548f13b41b1af2d8799527fc9d7~mv2.jpeg"
+ },
+ "4490f9_0760c34629e84a54b4c4f6fa67f45a4a~mv2.jpeg": {
+  "src": "/media/retreats/yoga-and-culture-retreat-01",
+  "w": 1600,
+  "h": 1200,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_0760c34629e84a54b4c4f6fa67f45a4a~mv2.jpeg"
+ },
+ "4490f9_8fc63d9c609040a1936c9000590bcc56~mv2.jpeg": {
+  "src": "/media/retreats/yoga-and-culture-retreat-02",
+  "w": 1004,
+  "h": 1600,
+  "widths": [
+   240,
+   480,
+   960,
+   1004
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_8fc63d9c609040a1936c9000590bcc56~mv2.jpeg"
+ },
+ "4490f9_af64a72d7f0c4b42ab1e8758d481c6ed~mv2.jpeg": {
+  "src": "/media/retreats/yoga-and-culture-retreat-03",
+  "w": 820,
+  "h": 820,
+  "widths": [
+   240,
+   480,
+   820
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_af64a72d7f0c4b42ab1e8758d481c6ed~mv2.jpeg"
+ },
+ "4490f9_4efc02b1da1c443b9204c20ff150115f~mv2.jpeg": {
+  "src": "/media/retreats/yoga-and-culture-retreat-04",
+  "w": 1600,
+  "h": 1066,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_4efc02b1da1c443b9204c20ff150115f~mv2.jpeg"
+ },
+ "7c2410_06865d811ca84a50a307d5bc16075957~mv2.jpg": {
+  "src": "/media/retreats/ecovillage-design-education-ede-01",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_06865d811ca84a50a307d5bc16075957~mv2.jpg"
+ },
+ "7c2410_91ef666c63e148e18faeb0b2b05b912a~mv2.jpg": {
+  "src": "/media/retreats/ecovillage-design-education-ede-02",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_91ef666c63e148e18faeb0b2b05b912a~mv2.jpg"
+ },
+ "7c2410_1ab81ac91d24491f85cafc13fe9b4211~mv2.jpg": {
+  "src": "/media/retreats/ecovillage-design-education-ede-03",
+  "w": 2000,
+  "h": 1333,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_1ab81ac91d24491f85cafc13fe9b4211~mv2.jpg"
+ },
+ "7c2410_8b2d02f26fd14190a9d89b3d03f19c3f~mv2.png": {
+  "src": "/media/retreats/ecovillage-design-education-ede-partner-logo",
+  "w": 750,
+  "h": 750,
+  "widths": [
+   160,
+   320,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_8b2d02f26fd14190a9d89b3d03f19c3f~mv2.png"
+ },
+ "4490f9_bc5d907b6f614415aee025910b4e61d7~mv2.jpg": {
+  "src": "/media/retreats/ecovillage-tours-journey-to-community-01",
+  "w": 201,
+  "h": 251,
+  "widths": [
+   201
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_bc5d907b6f614415aee025910b4e61d7~mv2.jpg"
+ },
+ "4490f9_2b16da563b694aeda0dbda500928703b~mv2.jpeg": {
+  "src": "/media/retreats/ecovillage-tours-journey-to-community-02",
+  "w": 960,
+  "h": 1280,
+  "widths": [
+   240,
+   480,
+   960
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_2b16da563b694aeda0dbda500928703b~mv2.jpeg"
+ },
+ "7c2410_f814afa5718e420bb9c7d6eeec2be0f2~mv2.jpg": {
+  "src": "/media/retreats/ecovillage-tours-journey-to-community-03",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_f814afa5718e420bb9c7d6eeec2be0f2~mv2.jpg"
+ },
+ "7c2410_0a430889cfa84e27be0f894dfc37c266~mv2.png": {
+  "src": "/media/retreats/ecovillage-tours-journey-to-community-partner-logo",
+  "w": 982,
+  "h": 456,
+  "widths": [
+   160,
+   320,
+   640
+  ],
+  "alpha": true,
+  "original": "source-assets/original/retreats/7c2410_0a430889cfa84e27be0f894dfc37c266~mv2.png"
+ },
+ "7c2410_43f46848b79443abb598b0e277e09071~mv2.jpeg": {
+  "src": "/media/retreats/yoga-teacher-training-course-ttc-01",
+  "w": 3776,
+  "h": 2832,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_43f46848b79443abb598b0e277e09071~mv2.jpeg"
+ },
+ "7c2410_fcd9eb02ba174d38a02a8a5c8b711cf3~mv2.jpg": {
+  "src": "/media/retreats/yoga-teacher-training-course-ttc-02",
+  "w": 653,
+  "h": 490,
+  "widths": [
+   240,
+   480,
+   653
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_fcd9eb02ba174d38a02a8a5c8b711cf3~mv2.jpg"
+ },
+ "7c2410_8840bc6cf48c4be190a93f3cebbf19b9~mv2.jpg": {
+  "src": "/media/retreats/yoga-teacher-training-course-ttc-03",
+  "w": 653,
+  "h": 490,
+  "widths": [
+   240,
+   480,
+   653
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_8840bc6cf48c4be190a93f3cebbf19b9~mv2.jpg"
+ },
+ "7c2410_3e2c1aed42d14c15b335fa8fba69e0bf~mv2.jpg": {
+  "src": "/media/retreats/yoga-teacher-training-course-ttc-partner-logo",
+  "w": 225,
+  "h": 225,
+  "widths": [
+   160,
+   225
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_3e2c1aed42d14c15b335fa8fba69e0bf~mv2.jpg"
+ },
+ "4490f9_6c2192ea21ab412497c499fef10f3585~mv2.jpg": {
+  "src": "/media/retreats/fun-and-flow-family-retreat-01",
+  "w": 3504,
+  "h": 2336,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_6c2192ea21ab412497c499fef10f3585~mv2.jpg"
+ },
+ "4490f9_232f9a183dee4baeaa7b583bba246fd8~mv2.jpeg": {
+  "src": "/media/retreats/fun-and-flow-family-retreat-02",
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   240,
+   480,
+   960,
+   1200
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_232f9a183dee4baeaa7b583bba246fd8~mv2.jpeg"
+ },
+ "4490f9_727dc47828f444c784ce970386eaa2fe~mv2.jpeg": {
+  "src": "/media/retreats/fun-and-flow-family-retreat-03",
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   240,
+   480,
+   960,
+   1200
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_727dc47828f444c784ce970386eaa2fe~mv2.jpeg"
+ },
+ "4490f9_02999a495b9344ddbee92388dfbbecee~mv2.jpeg": {
+  "src": "/media/retreats/fun-and-flow-family-retreat-04",
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   240,
+   480,
+   960,
+   1200
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_02999a495b9344ddbee92388dfbbecee~mv2.jpeg"
+ },
+ "7c2410_6105abb86b2843c1913787c4d55ff06a~mv2.avif": {
+  "src": "/media/retreats/past-yoga-teacher-traning-course-01",
+  "w": 319,
+  "h": 213,
+  "widths": [
+   240,
+   319
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_6105abb86b2843c1913787c4d55ff06a~mv2.avif"
+ },
+ "7c2410_777081f6ddca449dbaebe3ff9c0f2c67~mv2.jpg": {
+  "src": "/media/retreats/past-yoga-teacher-traning-course-02",
+  "w": 259,
+  "h": 194,
+  "widths": [
+   240,
+   259
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_777081f6ddca449dbaebe3ff9c0f2c67~mv2.jpg"
+ },
+ "7c2410_8e9930028fd74f4fa7ef2ce54990f767~mv2.jpg": {
+  "src": "/media/retreats/past-yoga-teacher-traning-course-03",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_8e9930028fd74f4fa7ef2ce54990f767~mv2.jpg"
+ },
+ "7c2410_17c0421795d74d3598bc3b9a4867f17e~mv2.jpeg": {
+  "src": "/media/retreats/past-yoga-teacher-traning-course-04",
+  "w": 3776,
+  "h": 2832,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_17c0421795d74d3598bc3b9a4867f17e~mv2.jpeg"
+ },
+ "7c2410_76ab325e4e5041c89a5b7ccc088b2f99~mv2.jpg": {
+  "src": "/media/retreats/past-ayurvedic-cooking-workshop-01",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_76ab325e4e5041c89a5b7ccc088b2f99~mv2.jpg"
+ },
+ "7c2410_fae98fd16fc9408e9ba4feaffe83b498~mv2.jpeg": {
+  "src": "/media/retreats/past-ayurvedic-cooking-workshop-02",
+  "w": 3776,
+  "h": 2832,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_fae98fd16fc9408e9ba4feaffe83b498~mv2.jpeg"
+ },
+ "7c2410_4339c46a2aef4966962064bbd0caa0d9~mv2.jpeg": {
+  "src": "/media/retreats/past-ayurvedic-cooking-workshop-03",
+  "w": 640,
+  "h": 640,
+  "widths": [
+   240,
+   480,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_4339c46a2aef4966962064bbd0caa0d9~mv2.jpeg"
+ },
+ "7c2410_51d077d42e604b95823a44b5ca18edb9~mv2.jpg": {
+  "src": "/media/retreats/past-ayurvedic-cooking-workshop-04",
+  "w": 225,
+  "h": 225,
+  "widths": [
+   225
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_51d077d42e604b95823a44b5ca18edb9~mv2.jpg"
+ },
+ "7c2410_11472590e6094ac3a9240315faa5b3d8~mv2.jpeg": {
+  "src": "/media/retreats/past-massage-workshop-01",
+  "w": 2832,
+  "h": 3776,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_11472590e6094ac3a9240315faa5b3d8~mv2.jpeg"
+ },
+ "7c2410_556ad5bc3cbc4e24a7cf54745329046e~mv2.jpeg": {
+  "src": "/media/retreats/past-massage-workshop-02",
+  "w": 3776,
+  "h": 2832,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_556ad5bc3cbc4e24a7cf54745329046e~mv2.jpeg"
+ },
+ "7c2410_6d79a1fdf8784b2086f388390a59daa2~mv2.jpeg": {
+  "src": "/media/retreats/past-massage-workshop-03",
+  "w": 3776,
+  "h": 2832,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_6d79a1fdf8784b2086f388390a59daa2~mv2.jpeg"
+ },
+ "7c2410_4d601ae9146d4a02bb44cdf7af7a8975~mv2.jpeg": {
+  "src": "/media/retreats/past-massage-workshop-04",
+  "w": 2832,
+  "h": 3776,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_4d601ae9146d4a02bb44cdf7af7a8975~mv2.jpeg"
+ },
+ "7c2410_8f5b790ea5d74877ba8f1bf2641487f4~mv2.png": {
+  "src": "/media/retreats/past-vegan-retreat-01",
+  "w": 315,
+  "h": 307,
+  "widths": [
+   240,
+   315
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_8f5b790ea5d74877ba8f1bf2641487f4~mv2.png"
+ },
+ "7c2410_214edb80ecdf496599995eb032f4343f~mv2.jpeg": {
+  "src": "/media/retreats/past-vegan-retreat-02",
+  "w": 960,
+  "h": 1280,
+  "widths": [
+   240,
+   480,
+   960
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_214edb80ecdf496599995eb032f4343f~mv2.jpeg"
+ },
+ "7c2410_f677888fb10b4af99e252a348591ac5f~mv2.jpeg": {
+  "src": "/media/retreats/past-vegan-retreat-03",
+  "w": 1392,
+  "h": 1044,
+  "widths": [
+   240,
+   480,
+   960,
+   1392
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_f677888fb10b4af99e252a348591ac5f~mv2.jpeg"
+ },
+ "7c2410_45adb8fcfbcd43c29f5489327d5ffb48~mv2.jpeg": {
+  "src": "/media/retreats/past-vegan-retreat-04",
+  "w": 902,
+  "h": 1600,
+  "widths": [
+   240,
+   480,
+   902
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_45adb8fcfbcd43c29f5489327d5ffb48~mv2.jpeg"
+ },
+ "7c2410_5cbebc74b2654a76aaf1e940ee601f59~mv2.png": {
+  "src": "/media/retreats/past-ecovillage-design-education-01",
+  "w": 750,
+  "h": 750,
+  "widths": [
+   240,
+   480,
+   750
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_5cbebc74b2654a76aaf1e940ee601f59~mv2.png"
+ },
+ "7c2410_870148cda6984fc9bb3e22c33767acf1~mv2.jpg": {
+  "src": "/media/retreats/past-ecovillage-design-education-02",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_870148cda6984fc9bb3e22c33767acf1~mv2.jpg"
+ },
+ "7c2410_4410df7a908248b19b31dde0bc059427~mv2.jpg": {
+  "src": "/media/retreats/past-ecovillage-design-education-03",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_4410df7a908248b19b31dde0bc059427~mv2.jpg"
+ },
+ "7c2410_8c8aed8760da4d088e9e2df8f35c7b74~mv2.jpg": {
+  "src": "/media/retreats/past-ecovillage-design-education-04",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/7c2410_8c8aed8760da4d088e9e2df8f35c7b74~mv2.jpg"
+ },
+ "4490f9_6357b3dff10845cd8d163095c19edcb8~mv2.jpg": {
+  "src": "/media/retreats/past-ecovillage-gathering-and-dances-of-universal-peace-01",
+  "w": 1414,
+  "h": 2000,
+  "widths": [
+   240,
+   480,
+   960,
+   1414
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_6357b3dff10845cd8d163095c19edcb8~mv2.jpg"
+ },
+ "4490f9_b068c3145c8d4d2d9a548a73654202c5~mv2.jpeg": {
+  "src": "/media/retreats/past-ecovillage-gathering-and-dances-of-universal-peace-02",
+  "w": 1600,
+  "h": 1058,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_b068c3145c8d4d2d9a548a73654202c5~mv2.jpeg"
+ },
+ "4490f9_eef524e52bdb422fb3d1c428cef5b6de~mv2.jpeg": {
+  "src": "/media/retreats/past-ecovillage-gathering-and-dances-of-universal-peace-03",
+  "w": 1600,
+  "h": 1084,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_eef524e52bdb422fb3d1c428cef5b6de~mv2.jpeg"
+ },
+ "4490f9_44dde80ba9dd4012ae8f4ead3490a56c~mv2.jpeg": {
+  "src": "/media/retreats/past-ecovillage-gathering-and-dances-of-universal-peace-04",
+  "w": 1600,
+  "h": 991,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_44dde80ba9dd4012ae8f4ead3490a56c~mv2.jpeg"
+ },
+ "4490f9_304ba74c57224bce9ce94648ab5c0e71~mv2.jpg": {
+  "src": "/media/retreats/past-authentic-relating-01",
+  "w": 828,
+  "h": 836,
+  "widths": [
+   240,
+   480,
+   828
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_304ba74c57224bce9ce94648ab5c0e71~mv2.jpg"
+ },
+ "4490f9_ad414f763bdd4f229f103cf5b53bc52c~mv2.jpg": {
+  "src": "/media/retreats/past-authentic-relating-02",
+  "w": 1018,
+  "h": 805,
+  "widths": [
+   240,
+   480,
+   960,
+   1018
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_ad414f763bdd4f229f103cf5b53bc52c~mv2.jpg"
+ },
+ "4490f9_346fe8ae29f640b5a9f0d1ebf907426a~mv2.jpeg": {
+  "src": "/media/retreats/past-authentic-relating-03",
+  "w": 1280,
+  "h": 852,
+  "widths": [
+   240,
+   480,
+   960,
+   1280
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_346fe8ae29f640b5a9f0d1ebf907426a~mv2.jpeg"
+ },
+ "4490f9_b509eebc648942c6af8ca64cb06076fb~mv2.jpg": {
+  "src": "/media/retreats/past-authentic-relating-04",
+  "w": 1039,
+  "h": 766,
+  "widths": [
+   240,
+   480,
+   960,
+   1039
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_b509eebc648942c6af8ca64cb06076fb~mv2.jpg"
+ },
+ "4490f9_528f3038b60643c0ad313cb9fa05b088~mv2.jpg": {
+  "src": "/media/retreats/past-journey-to-community-01",
+  "w": 224,
+  "h": 224,
+  "widths": [
+   224
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_528f3038b60643c0ad313cb9fa05b088~mv2.jpg"
+ },
+ "4490f9_d69d2d1f557f44a6a8cae2aecd9a7842~mv2.jpeg": {
+  "src": "/media/retreats/past-journey-to-community-02",
+  "w": 960,
+  "h": 1280,
+  "widths": [
+   240,
+   480,
+   960
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_d69d2d1f557f44a6a8cae2aecd9a7842~mv2.jpeg"
+ },
+ "4490f9_fb246fcc7862430893b9ff7363dd24e8~mv2.jpg": {
+  "src": "/media/retreats/past-journey-to-community-03",
+  "w": 201,
+  "h": 251,
+  "widths": [
+   201
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_fb246fcc7862430893b9ff7363dd24e8~mv2.jpg"
+ },
+ "4490f9_ba5b6e5b9154476d911416c855a2c52f~mv2.jpeg": {
+  "src": "/media/retreats/past-journey-to-community-04",
+  "w": 960,
+  "h": 1280,
+  "widths": [
+   240,
+   480,
+   960
+  ],
+  "alpha": false,
+  "original": "source-assets/original/retreats/4490f9_ba5b6e5b9154476d911416c855a2c52f~mv2.jpeg"
+ },
+ "7c2410_1946b45a735c43679c487ff5b88a89b5~mv2.png": {
+  "src": "/media/activities/hero-aerial-pool",
+  "w": 3348,
+  "h": 1874,
+  "widths": [
+   640,
+   1024,
+   1600,
+   2400
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_1946b45a735c43679c487ff5b88a89b5~mv2.png"
+ },
+ "7c2410_755d9a4c1b6a42e592f16ee08bf58807~mv2.jpg": {
+  "src": "/media/activities/closing-panorama",
+  "w": 1280,
+  "h": 333,
+  "widths": [
+   640,
+   1024,
+   1280
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_755d9a4c1b6a42e592f16ee08bf58807~mv2.jpg"
+ },
+ "7c2410_a8cb91031b884bffaf3b6017347528f9~mv2.jpg": {
+  "src": "/media/activities/at-alaya-yoga-meditation",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_a8cb91031b884bffaf3b6017347528f9~mv2.jpg"
+ },
+ "7c2410_c93302cdbd4443f5b656f30873e9d708~mv2.jpg": {
+  "src": "/media/activities/at-alaya-balinese-cooking",
+  "w": 1280,
+  "h": 960,
+  "widths": [
+   240,
+   480,
+   960,
+   1280
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_c93302cdbd4443f5b656f30873e9d708~mv2.jpg"
+ },
+ "7c2410_eb426f58a7b04771a9e1eec349c63c6e~mv2.jpg": {
+  "src": "/media/activities/at-alaya-massage-bodywork",
+  "w": 1140,
+  "h": 1012,
+  "widths": [
+   240,
+   480,
+   960,
+   1140
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_eb426f58a7b04771a9e1eec349c63c6e~mv2.jpg"
+ },
+ "7c2410_73d669f7b70f41a59b721955ccfad43f~mv2.jpg": {
+  "src": "/media/activities/at-alaya-martial-arts",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_73d669f7b70f41a59b721955ccfad43f~mv2.jpg"
+ },
+ "7c2410_94d3d91a21a344d1949cd1850287e6f1~mv2.jpg": {
+  "src": "/media/activities/at-alaya-acupuncture-watsu",
+  "w": 1600,
+  "h": 1066,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_94d3d91a21a344d1949cd1850287e6f1~mv2.jpg"
+ },
+ "7c2410_5d24f88a4c514bbaa571bceeae5c2c5c~mv2.jpg": {
+  "src": "/media/activities/at-alaya-cultural-experiences",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_5d24f88a4c514bbaa571bceeae5c2c5c~mv2.jpg"
+ },
+ "7c2410_898e56a890a148cd800e66b8a5130333~mv2.jpg": {
+  "src": "/media/activities/at-alaya-games-movies-bonfires",
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   240,
+   480,
+   960,
+   1200
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_898e56a890a148cd800e66b8a5130333~mv2.jpg"
+ },
+ "7c2410_854636a2959a4918b64bebb367121394~mv2.jpg": {
+  "src": "/media/activities/at-alaya-health-workshops",
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_854636a2959a4918b64bebb367121394~mv2.jpg"
+ },
+ "7c2410_0875ccd58a334b9f9d2ca4333a6d81a4~mv2.jpg": {
+  "src": "/media/activities/near-alaya-hiking-temples",
+  "w": 3024,
+  "h": 4032,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_0875ccd58a334b9f9d2ca4333a6d81a4~mv2.jpg"
+ },
+ "7c2410_7f2fa3a075ef4704bc0733317b19a312~mv2.jpg": {
+  "src": "/media/activities/near-alaya-waterfalls-hot-springs",
+  "w": 512,
+  "h": 384,
+  "widths": [
+   240,
+   480,
+   512
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_7f2fa3a075ef4704bc0733317b19a312~mv2.jpg"
+ },
+ "7c2410_9f862ca015fd4050b0e4e94fc886422a~mv2.jpg": {
+  "src": "/media/activities/near-alaya-turtle-release-reef",
+  "w": 550,
+  "h": 413,
+  "widths": [
+   240,
+   480,
+   550
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_9f862ca015fd4050b0e4e94fc886422a~mv2.jpg"
+ },
+ "7c2410_86152cae4b5b42babc637f206593e1d6~mv2.jpg": {
+  "src": "/media/activities/near-alaya-national-park-village",
+  "w": 960,
+  "h": 1280,
+  "widths": [
+   240,
+   480,
+   960
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_86152cae4b5b42babc637f206593e1d6~mv2.jpg"
+ },
+ "7c2410_6ce5e9098ddb4aea82ea645cbe3d8453~mv2.jpg": {
+  "src": "/media/activities/near-alaya-dolphins-mangrove",
+  "w": 600,
+  "h": 400,
+  "widths": [
+   240,
+   480,
+   600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_6ce5e9098ddb4aea82ea645cbe3d8453~mv2.jpg"
+ },
+ "7c2410_2100f5ba3ca64ebdb08edac3effd313a~mv2.jpeg": {
+  "src": "/media/activities/near-alaya-snorkeling-diving",
+  "w": 8064,
+  "h": 6048,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_2100f5ba3ca64ebdb08edac3effd313a~mv2.jpeg"
+ },
+ "7c2410_2aeb24baf8ff4794978699ee28eb4ef6~mv2.jpg": {
+  "src": "/media/activities/near-alaya-farming-forestry",
+  "w": 721,
+  "h": 900,
+  "widths": [
+   240,
+   480,
+   721
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_2aeb24baf8ff4794978699ee28eb4ef6~mv2.jpg"
+ },
+ "7c2410_c6dac31697d841ec9edd45c85df8a523~mv2.jpg": {
+  "src": "/media/activities/near-alaya-community-clean-ups",
+  "w": 913,
+  "h": 1200,
+  "widths": [
+   240,
+   480,
+   913
+  ],
+  "alpha": false,
+  "original": "source-assets/original/activities/7c2410_c6dac31697d841ec9edd45c85df8a523~mv2.jpg"
+ },
+ "7c2410_5ec59ad23ba346b5b0a3bd78ff7e879e~mv2.jpeg": {
+  "src": "/media/about-us/hero-mountains",
+  "w": 8064,
+  "h": 6048,
+  "widths": [
+   640,
+   1024,
+   1600,
+   2400
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_5ec59ad23ba346b5b0a3bd78ff7e879e~mv2.jpeg"
+ },
+ "7c2410_4eeb6a0056bb40a5b791d317d8cbe1c5~mv2.jpg": {
+  "src": "/media/about-us/team-ketut-sudarta",
+  "w": 937,
+  "h": 992,
+  "widths": [
+   320,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_4eeb6a0056bb40a5b791d317d8cbe1c5~mv2.jpg"
+ },
+ "7c2410_8d20bfd0d56545429b2c124ccd378117~mv2.jpg": {
+  "src": "/media/about-us/team-ketut-sarka",
+  "w": 752,
+  "h": 752,
+  "widths": [
+   320,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_8d20bfd0d56545429b2c124ccd378117~mv2.jpg"
+ },
+ "7c2410_a9fbd1e143934e30aeebcf52392880f0~mv2.jpg": {
+  "src": "/media/about-us/team-ketut-wiyasni",
+  "w": 871,
+  "h": 871,
+  "widths": [
+   320,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_a9fbd1e143934e30aeebcf52392880f0~mv2.jpg"
+ },
+ "7c2410_547994cb463546cca1040c5d82fe0a44~mv2.jpg": {
+  "src": "/media/about-us/team-michael-marco",
+  "w": 787,
+  "h": 787,
+  "widths": [
+   320,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_547994cb463546cca1040c5d82fe0a44~mv2.jpg"
+ },
+ "7c2410_2b72edaa31f042318e6e3ff48812186c~mv2.jpg": {
+  "src": "/media/about-us/team-kavitha-selvaraj",
+  "w": 837,
+  "h": 837,
+  "widths": [
+   320,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_2b72edaa31f042318e6e3ff48812186c~mv2.jpg"
+ },
+ "7c2410_fba652456d22487cabe3d38a514e5fbb~mv2.jpg": {
+  "src": "/media/about-us/team-ibu-masiti",
+  "w": 919,
+  "h": 919,
+  "widths": [
+   320,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_fba652456d22487cabe3d38a514e5fbb~mv2.jpg"
+ },
+ "7c2410_5aba396ff9254b99900368c6e84fa793~mv2.jpg": {
+  "src": "/media/about-us/team-kadek-suartika",
+  "w": 998,
+  "h": 998,
+  "widths": [
+   320,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_5aba396ff9254b99900368c6e84fa793~mv2.jpg"
+ },
+ "7c2410_83293925efd44adba7a1689b3ec9e80c~mv2.jpg": {
+  "src": "/media/about-us/team-kadek-wati",
+  "w": 966,
+  "h": 966,
+  "widths": [
+   320,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_83293925efd44adba7a1689b3ec9e80c~mv2.jpg"
+ },
+ "7c2410_17633af8648441c2987d092b8fcc43c3~mv2.jpg": {
+  "src": "/media/about-us/team-putu-pastika",
+  "w": 1166,
+  "h": 1166,
+  "widths": [
+   320,
+   640
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_17633af8648441c2987d092b8fcc43c3~mv2.jpg"
+ },
+ "7c2410_4f111ce012b945b18b1cf9fc460cd2ce~mv2.jpg": {
+  "src": "/media/about-us/photo-temple",
+  "w": 3072,
+  "h": 4096,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_4f111ce012b945b18b1cf9fc460cd2ce~mv2.jpg"
+ },
+ "7c2410_2d10e9e320bb473b8e4d1d5553eed795~mv2.png": {
+  "src": "/media/about-us/photo-ceremony",
+  "w": 939,
+  "h": 623,
+  "widths": [
+   240,
+   480,
+   939
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_2d10e9e320bb473b8e4d1d5553eed795~mv2.png"
+ },
+ "7c2410_a1fc3ef30d7d4f29aee99b29713aa449~mv2.jpeg": {
+  "src": "/media/about-us/photo-masiti",
+  "w": 3024,
+  "h": 4032,
+  "widths": [
+   240,
+   480,
+   960,
+   1600
+  ],
+  "alpha": false,
+  "original": "source-assets/original/about-us/7c2410_a1fc3ef30d7d4f29aee99b29713aa449~mv2.jpeg"
+ },
+ "7c2410_2b99bc4a737e44868d87bdabcbd392d5~mv2.jpg#wide": {
+  "src": "/media/home/hero-pool-garden-wide",
+  "w": 3072,
+  "h": 1920,
+  "widths": [
+   1024,
+   1600,
+   2400
+  ],
+  "alpha": false,
+  "original": "source-assets/original/home/7c2410_2b99bc4a737e44868d87bdabcbd392d5~mv2.jpg",
+  "crop": "16:10 at focal 50%/43%"
+ }
+}

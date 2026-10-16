@@ -1,0 +1,48 @@
+{
+  "_source": "docs/source-audit/content/00-global-header-footer.md (verbatim). Business facts verified across pages on 2026-10-16.",
+  "name": "Alaya Ecolodge",
+  "url": "https://www.alayaecolodge.com",
+  "nav": [
+    { "label": "Accommodation", "href": "/accommodation" },
+    { "label": "Retreats", "href": "/retreats" },
+    { "label": "Activities", "href": "/activities" },
+    { "label": "About Us", "href": "/about-us" }
+  ],
+  "footerMenu": [
+    { "label": "Home", "href": "/" },
+    { "label": "Accommodation", "href": "/accommodation" },
+    { "label": "Retreats", "href": "/retreats" },
+    { "label": "Activities", "href": "/activities" },
+    { "label": "About Us", "href": "/about-us" }
+  ],
+  "locationLines": ["Jalan Gatot Kaca, Pemuteran,", "Gerokgak, Buleleng Regency,", "Bali - 81155, Indonesia"],
+  "addressAboutPage": "Jalan Gatot Kaca, Pemuteran, Gerokgak, Buleleng Regency, Bali 81155",
+  "address": {
+    "street": "Jalan Gatot Kaca",
+    "locality": "Pemuteran",
+    "district": "Gerokgak",
+    "region": "Buleleng Regency, Bali",
+    "postalCode": "81155",
+    "country": "ID"
+  },
+  "phone": { "display": "+62 813 3904 7912", "href": "tel:+6281339047912" },
+  "email": { "display": "alayaecolodge@gmail.com", "href": "mailto:alayaecolodge@gmail.com" },
+  "instagram": { "display": "alaya.ecolodge", "handle": "@alaya.ecolodge", "href": "http://instagram.com/alaya.ecolodge" },
+  "booking": { "label": "Book on Booking.com", "href": "https://www.booking.com/hotel/id/dune-alaya-ecolodge" },
+  "map": {
+    "_note": "Exact place link not captured in the audit (Q17). Embed uses the business name + verified address as the query.",
+    "query": "Alaya Ecolodge, Jalan Gatot Kaca, Pemuteran, Gerokgak, Buleleng Regency, Bali 81155",
+    "embed": "https://www.google.com/maps?q=Alaya%20Ecolodge%2C%20Jalan%20Gatot%20Kaca%2C%20Pemuteran%2C%20Gerokgak%2C%20Buleleng%20Regency%2C%20Bali%2081155&z=15&output=embed",
+    "link": "https://www.google.com/maps/search/?api=1&query=Alaya%20Ecolodge%2C%20Jalan%20Gatot%20Kaca%2C%20Pemuteran%2C%20Bali%2081155"
+  },
+  "footerBand": { "title": "PEMUTERAN", "subtitle": "Alaya's Home - A Land of Renewal and Return" },
+  "logos": {
+    "white": "7c2410_6ae78648ee9a42db9eed6ddc2477e3fa~mv2.png",
+    "tile": "7c2410_89d7dacc803240879d46f5a2444334d7~mv2.jpg"
+  },
+  "footerVideo": {
+    "poster": "7c2410_8793da3716a340c0b3f7dca38b47fc0ff000.jpg",
+    "mobile": "/media/video/footer-aerial-480p.mp4",
+    "desktop": "/media/video/footer-aerial-720p.mp4"
+  }
+}

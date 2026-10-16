@@ -1,0 +1,19 @@
+# dependencies / build
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Raw Wix originals (~742 MB). Kept locally for reference only; never commit.
+# Web derivatives live in public/media and are traceable via src/content/media.json.
+source-assets/
+
+# env / os
+.env*
+.DS_Store
+Thumbs.db
+npm-debug.log*
+
+# vercel
+.vercel

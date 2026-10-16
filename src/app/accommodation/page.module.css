@@ -1,0 +1,101 @@
+/* ---------- Intro ---------- */
+.intro {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: var(--gutter);
+  row-gap: clamp(2rem, 3.5vw, 3rem);
+  align-items: center;
+  padding-top: var(--section);
+}
+.introText { grid-column: 1 / span 5; display: grid; gap: 1.5rem; align-content: center; }
+.whisper {
+  font-family: var(--ff-serif);
+  font-size: var(--fs-lead);
+  line-height: 1.45;
+  color: var(--green-deep);
+}
+.introImages {
+  grid-column: 6 / span 7;
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  grid-template-rows: repeat(10, clamp(30px, 3.4vw, 52px));
+  gap: clamp(0.6rem, 1.2vw, 1rem);
+}
+/* clean two-row mosaic: wide breakfast on top, tumpeng + bed below */
+.introFig { position: relative; margin: 0; min-height: 0; }
+.introFig figcaption {
+  position: absolute;
+  left: 0.75rem;
+  bottom: 0.75rem;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  background: rgb(248 244 234 / 0.9);
+  font-size: var(--fs-meta);
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--earth);
+}
+.introFrame { height: 100%; overflow: hidden; border-radius: var(--radius); background: var(--sage-light); }
+.introFrame img { width: 100%; height: 100%; object-fit: cover; }
+.fig0 { grid-column: 1 / -1; grid-row: 1 / span 5; }
+.fig1 { grid-column: 1 / span 3; grid-row: 6 / span 5; }
+.fig2 { grid-column: 4 / span 3; grid-row: 6 / span 5; }
+.tumpeng {
+  grid-column: 1 / -1;
+  padding: clamp(1.25rem, 2.5vw, 2rem) 0;
+  border-block: 1px solid var(--line-strong);
+  font-family: var(--ff-serif);
+  font-size: clamp(1.35rem, 1rem + 1.4vw, 2.2rem);
+  line-height: 1.35;
+  text-align: center;
+  text-wrap: balance;
+}
+
+/* ---------- Cottages ---------- */
+.cottages { padding-top: var(--section); }
+.cottagesHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  justify-content: space-between;
+  gap: 1rem 2rem;
+  margin-bottom: var(--head-gap);
+}
+.cottagesNote { font-size: 0.9rem; color: var(--earth-soft); }
+
+/* ---------- Amenities ---------- */
+.amenities { padding-top: var(--section); display: grid; gap: var(--head-gap); }
+.amenityCols {
+  display: grid;
+  grid-template-columns: 2.4fr 1fr;
+  gap: clamp(1rem, 2vw, 1.5rem);
+}
+.amenityGroup {
+  padding: clamp(1.5rem, 3vw, 2.75rem);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-lg);
+}
+.charge { background: var(--peach-light); border-color: transparent; }
+.amenityTitle {
+  margin-bottom: 1.25rem;
+  font-family: var(--ff-serif);
+  font-size: var(--fs-h4);
+  font-weight: 600;
+}
+.amenityGrid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 clamp(1rem, 2.5vw, 2.5rem); }
+.amenityGroup ul { margin: 0; padding: 0; list-style: none; }
+.amenityGroup li {
+  padding: 0.65rem 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.98rem;
+}
+
+@media (max-width: 900px) {
+  .introText, .introImages, .tumpeng { grid-column: 1 / -1; }
+  .introImages { grid-template-rows: repeat(10, clamp(26px, 7vw, 48px)); }
+  .amenityCols { grid-template-columns: 1fr; }
+}
+@media (max-width: 600px) {
+  .amenityGrid { grid-template-columns: 1fr; }
+}

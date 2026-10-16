@@ -1,0 +1,60 @@
+/* Split hero: text on the page colour + photo in an arched frame. */
+.hero {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: var(--gutter);
+  row-gap: clamp(1.5rem, 3vw, 2rem);
+  align-items: center;
+  padding-top: clamp(1.5rem, 3vw, 2.75rem);
+}
+
+.text {
+  grid-column: 1 / span 6;
+  container-type: inline-size;
+  display: grid;
+  gap: clamp(1rem, 2vw, 1.75rem);
+  padding-block: 1rem;
+}
+
+.title {
+  font-family: var(--ff-serif);
+  font-weight: 500;
+  /* sized to its own length so every title fills the column on one line:
+     short titles ("Retreats") grow, long ones ("Accommodation") never break */
+  font-size: min(clamp(3rem, 1.2rem + 6.4vw, 8.5rem), calc(100cqi / (var(--chars) * 0.6)));
+  line-height: 1.08;
+  letter-spacing: -0.025em;
+}
+
+.lead {
+  padding-top: clamp(1rem, 2vw, 1.5rem);
+  border-top: 2px solid var(--green);
+  font-family: var(--ff-serif);
+  font-size: clamp(1.3rem, 1rem + 1.1vw, 2.1rem);
+  line-height: 1.45;
+  color: var(--earth);
+}
+
+/* arched frame: elliptical top corners, soft bottom corners */
+.frame {
+  grid-column: 7 / span 6;
+  position: relative;
+  height: clamp(340px, 52svh, 540px);
+  overflow: hidden;
+  isolation: isolate;
+  border-radius: 50% 50% var(--radius-lg) var(--radius-lg) / 34% 34% var(--radius-lg) var(--radius-lg);
+  background: var(--sage-light);
+}
+/* extra height above absorbs the scroll drift from PageMotion */
+.media { position: absolute; inset: -14% 0 0; }
+.media picture { display: block; height: 100%; }
+.media img { width: 100%; height: 100%; object-fit: cover; }
+
+@media (max-width: 900px) {
+  .text, .frame { grid-column: 1 / -1; }
+  .text { padding-block: 0; }
+  .frame {
+    height: clamp(260px, 62vw, 420px);
+    border-radius: 50% 50% var(--radius-lg) var(--radius-lg) / 26% 26% var(--radius-lg) var(--radius-lg);
+  }
+}

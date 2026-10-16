@@ -1,0 +1,34 @@
+{
+  "_source": "docs/source-audit/content/05-about-us.md (verbatim). Team photos are of real staff; use only in the team section.",
+  "meta": {
+    "title": "about us | Alaya Ecolodge",
+    "description": "Alaya is located at the heart of Pemuteran, and at the foot of impressive hills. The ecolodge is run by a culturally diverse team, who look forward to making you feel welcome and at home."
+  },
+  "hero": {
+    "image": "7c2410_5ec59ad23ba346b5b0a3bd78ff7e879e~mv2.jpeg",
+    "alt": "Dry mountain range under a blue sky near Pemuteran",
+    "focal": "72% 33%"
+  },
+  "welcome": [
+    "We look forward to welcoming you to Alaya Ecolodge. Our team is here to ensure your stay is peaceful, safe, and connected to the essence of Bali.",
+    "All our team members are from North-West Bali, except for Michael & Kavitha, who now call Alaya home. We would be honored for you to consider us as your Bali friends and family."
+  ],
+  "teamHeading": "Our Team",
+  "team": [
+    { "name": "Ketut Sudarta", "role": ["Ecolodge Director"], "image": "7c2410_4eeb6a0056bb40a5b791d317d8cbe1c5~mv2.jpg" },
+    { "name": "Ketut Sarka", "role": ["Programs & Tours"], "image": "7c2410_8d20bfd0d56545429b2c124ccd378117~mv2.jpg" },
+    { "name": "Ketut Wiyasni", "role": ["Finance & Accounting"], "image": "7c2410_a9fbd1e143934e30aeebcf52392880f0~mv2.jpg" },
+    { "name": "Michael Marco", "role": ["General Director"], "image": "7c2410_547994cb463546cca1040c5d82fe0a44~mv2.jpg" },
+    { "name": "Kavitha Selvaraj", "role": ["Program Coordinator"], "image": "7c2410_2b72edaa31f042318e6e3ff48812186c~mv2.jpg" },
+    { "name": "Ibu Masiti", "role": ["Reception &", "Housekeeping"], "image": "7c2410_fba652456d22487cabe3d38a514e5fbb~mv2.jpg" },
+    { "name": "Kadek Suartika", "role": ["Garden &", "Kitchen"], "image": "7c2410_5aba396ff9254b99900368c6e84fa793~mv2.jpg" },
+    { "name": "Kadek Wati", "role": ["Chef &", "Housekeeping"], "image": "7c2410_83293925efd44adba7a1689b3ec9e80c~mv2.jpg" },
+    { "name": "Putu Pastika", "role": ["Garden &", "Housekeeping"], "image": "7c2410_17633af8648441c2987d092b8fcc43c3~mv2.jpg" }
+  ],
+  "photos": [
+    { "id": "7c2410_4f111ce012b945b18b1cf9fc460cd2ce~mv2.jpg", "alt": "temple" },
+    { "id": "7c2410_2d10e9e320bb473b8e4d1d5553eed795~mv2.png", "alt": "Ceremony" },
+    { "id": "7c2410_a1fc3ef30d7d4f29aee99b29713aa449~mv2.jpeg", "alt": "Masiti" }
+  ],
+  "contactHeading": "Contact Us"
+}

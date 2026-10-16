@@ -1,0 +1,108 @@
+{
+  "_source": "docs/source-audit/content/01-home.md (verbatim).",
+  "meta": {
+    "title": "Alaya Ecolodge - Pemuteran, Bali",
+    "description": "‘Welcome back home to nature.’ Alaya Ecolodge is a green oasis in Pemuteran, with a stunning mountain view, suitable for individuals, families or groups."
+  },
+  "hero": {
+    "image": "7c2410_2b99bc4a737e44868d87bdabcbd392d5~mv2.jpg",
+    "alt": "Pool and loungers at Alaya Ecolodge beneath frangipani trees, with the green mountain behind",
+    "focal": "50% 43%",
+    "script": "Alaya",
+    "word": "Ecolodge",
+    "tagline": "Welcome back home to nature"
+  },
+  "welcome": {
+    "heading": "Salamat Datang!",
+    "lead": "Close your eyes… inhale deeply… exhale gently… and step into the peaceful oasis of Alaya.",
+    "paragraphs": [
+      "Derived from Sanskrit, Alaya means “home of the soul.” Our ecolodge is a sanctuary for rest, renewal, and reconnection—with nature, self, and community. Surrounded by lush greenery in North-Western Bali, Alaya invites you to slow down, live simply, and rediscover inner peace.",
+      "Rooted in tradition and committed to sustainability, Alaya Ecolodge blends heritage architecture with eco-conscious design. Our restored Balinese wooden cottages feature semi-outdoor bathrooms, antique furnishings, and natural ventilation—offering comfort without air conditioning.",
+      "Located near the Menjangan National Park, a haven of forests and coral reefs, Alaya is more than a place to stay. It’s a space to learn, grow, and live mindfully—guided by local wisdom and grounded in ecological living."
+    ],
+    "closing": "At Alaya, comfort and sustainability go hand in hand."
+  },
+  "pemuteran": {
+    "heading": "About Pemuteran Town",
+    "paragraphs": [
+      "Pemuteran means \"the turning point\" or \"to come back to you\" in Balinese and Indonesian.\nFolklore suggests the name comes from the word putar meaning \"to rotate or return\".",
+      "Legend says that a king once got lost in the area, wandering in circles and repeatedly returning to the exact same spot. Today, this fits the town's vibe perfectly, as travelers frequently find themselves returning to this magical destination.",
+      "As Alaya Ecolodge is located at the foot of Pemuteran central hill, many have felt the vortex energy on the land - with the nature elements alive and thriving - with gusts of cleansing wind, sun shining warmly through pockets of rain, and water gushing down the river bed during monsoon.",
+      "An ideal site to experience nature -  a land of renewal and return."
+    ]
+  },
+  "experience": {
+    "heading": "Experience Alaya",
+    "rows": [
+      {
+        "key": "cottages",
+        "title": "Eco-Friendly Cottages",
+        "text": "Stay in sustainably built cottages made from reclaimed materials, providing comfort and a deep connection to nature. Enjoy organic amenities and peaceful surroundings.",
+        "cta": {
+          "label": "View more",
+          "href": "/accommodation"
+        },
+        "images": [
+          {
+            "id": "7c2410_d6340f2999db4fb9a7ed38fde10227ea~mv2.jpg",
+            "alt": "Exterior of a heritage wooden cottage at Alaya"
+          },
+          {
+            "id": "7c2410_04ba3a0f62b34288b0927d579d255c2b~mv2.jpg",
+            "alt": "Aerial view of the pool and gardens at Alaya"
+          },
+          {
+            "id": "7c2410_faa960a73a61448688aa3505351a9b54~mv2.jpg",
+            "alt": "Painted wooden interior of a cottage at Alaya"
+          }
+        ]
+      },
+      {
+        "key": "retreats",
+        "title": "Rejuvenating Retreats",
+        "text": "Participate in retreats focused on yoga, self-improvement, and wellness, guided by experienced practitioners. Perfect for individuals seeking balance and inner peace.",
+        "cta": {
+          "label": "View more",
+          "href": "/retreats"
+        },
+        "images": [
+          {
+            "id": "7c2410_296204b8831e4aea8ef6b476580e75e6~mv2.jpeg",
+            "alt": "Retreat group raising their arms together outdoors"
+          },
+          {
+            "id": "7c2410_31bec048d0be4bab812f2ebd48341dad~mv2.jpg",
+            "alt": "Sunset over the hills near Pemuteran"
+          },
+          {
+            "id": "7c2410_b42b66df03bf4c4aa9ccf7e45eb729fe~mv2.jpg",
+            "alt": "Buddha statue in the garden"
+          }
+        ]
+      },
+      {
+        "key": "activities",
+        "title": "Activities & Adventures",
+        "text": "Explore Bali through immersive activities like diving, snorkeling, yoga, and martial arts. Our partnerships ensure authentic and exciting experiences for all guests.",
+        "cta": {
+          "label": "View more",
+          "href": "/activities"
+        },
+        "images": [
+          {
+            "id": "7c2410_287a13890f834f6a9c2e940498a53b0c~mv2.jpg",
+            "alt": "Yoga class in the shala"
+          },
+          {
+            "id": "7c2410_421f7cfde2a8421f8802beb0c02e2233~mv2.jpeg",
+            "alt": "Hiking along a green ridge"
+          },
+          {
+            "id": "7c2410_398569683994414d860fc4153285ca24~mv2.jpg",
+            "alt": "Ganesha statue framed by red flowers"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+.wrap {
+  margin-top: var(--section);
+  /* clear gap before the footer: photo and video band never touch */
+  margin-bottom: var(--end-pad);
+}
+.frame {
+  position: relative;
+  max-height: 62svh;
+  min-height: 260px;
+  width: 100%;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  background: var(--sage-light);
+}
+.frame img { width: 100%; height: 100%; object-fit: cover; }
+
+.shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgb(20 30 24 / 0.6), rgb(20 30 24 / 0) 55%);
+  pointer-events: none;
+}
+.next {
+  position: absolute;
+  left: clamp(1.25rem, 3vw, 3rem);
+  bottom: clamp(1.75rem, 3.5vw, 3rem);
+  display: grid;
+  gap: 0.35rem;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 0 2px 20px rgb(0 0 0 / 0.3);
+}
+.nextKicker {
+  font-size: var(--fs-meta);
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+.nextLabel {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  font-family: var(--ff-serif);
+  font-size: clamp(1.8rem, 1.2rem + 2.4vw, 3.4rem);
+  font-weight: 500;
+  line-height: 1.2;
+  padding-bottom: 0.08em;
+}
+.nextArrow {
+  width: 0.7em;
+  height: 0.7em;
+  transition: transform 0.5s var(--ease-out);
+}
+@media (hover: hover) {
+  .next:hover .nextArrow { transform: translateX(0.25em); }
+}

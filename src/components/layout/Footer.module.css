@@ -1,0 +1,121 @@
+/* One fitted section: aerial video band with the cream info panel inside it. */
+.footer {
+  /* flush with the last section: no paper strip above the video band */
+  margin-top: 0;
+}
+
+.band {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  background: var(--emerald-deep);
+  color: #fff;
+}
+.media { position: absolute; inset: 0; z-index: -2; }
+.poster,
+.video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.video { opacity: 0; transition: opacity 1.2s ease; }
+.videoOn { opacity: 1; }
+.bandShade {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    linear-gradient(to bottom, rgb(20 34 28 / 0.25), rgb(20 34 28 / 0.15) 35%, rgb(20 34 28 / 0.55) 100%);
+}
+
+.inner {
+  display: grid;
+  gap: clamp(2rem, 4vw, 3.5rem);
+  /* taller band: more of the aerial video shows */
+  min-height: clamp(560px, 62vw, 860px);
+  align-content: space-between;
+  padding-top: clamp(5rem, 10vw, 9rem);
+  padding-bottom: clamp(1rem, 2vw, 1.75rem);
+}
+
+.bandText {
+  display: grid;
+  gap: 0.5rem;
+  justify-items: center;
+  text-align: center;
+  text-shadow: 0 1px 24px rgb(0 0 0 / 0.3);
+}
+.place {
+  /* Charmonman: the handwritten script of the Alaya logo wordmark */
+  font-family: var(--ff-script);
+  font-weight: 400;
+  font-size: clamp(3.4rem, 1.4rem + 9vw, 10rem);
+  line-height: 1.25;
+  letter-spacing: 0.01em;
+  padding: 0.1em 0.15em 0.2em;
+}
+.bandSub {
+  font-family: var(--ff-sans);
+  font-weight: 300;
+  font-size: clamp(1rem, 0.9rem + 0.5vw, 1.35rem);
+  letter-spacing: 0.02em;
+}
+
+
+/* ---------- Cream panel ---------- */
+.panel {
+  display: grid;
+  grid-template-columns: auto 1fr 1.25fr 1.4fr;
+  gap: clamp(1.5rem, 3vw, 3.5rem);
+  align-items: start;
+  padding: clamp(1.5rem, 3vw, 2.75rem);
+  border-radius: var(--radius-lg);
+  /* deep emerald from the site palette (same as the Pemuteran / Near Alaya bands) */
+  background: rgb(44 74 65 / 0.94);
+  border: 1px solid rgb(246 241 226 / 0.14);
+  color: #fff;
+}
+.tile { display: block; width: clamp(84px, 8vw, 116px); }
+.tile img { width: 100%; border-radius: var(--radius); }
+
+.col ul { margin: 0; padding: 0; list-style: none; display: grid; gap: 0.1rem; }
+.colTitle {
+  margin-bottom: 0.6rem;
+  font-family: var(--ff-sans);
+  font-size: var(--fs-meta);
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--peach-light);
+}
+.link {
+  display: inline-block;
+  padding-block: 0.25rem;
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 0.3em;
+  transition: text-decoration-color 0.3s;
+  overflow-wrap: anywhere;
+}
+.link:hover { text-decoration-color: currentColor; }
+.address { font-style: normal; }
+.address .link span:not(:global(.visually-hidden)) { display: block; }
+.contactList { gap: 0.35rem !important; }
+.contactList li { display: grid; }
+.k { font-size: var(--fs-meta); font-weight: 600; color: var(--on-dark-soft); letter-spacing: 0.04em; }
+
+@media (max-width: 960px) {
+  .panel { grid-template-columns: auto 1fr 1fr; }
+  .tile { grid-row: span 2; }
+  .col:last-child { grid-column: 2 / -1; }
+}
+@media (max-width: 600px) {
+  .panel { grid-template-columns: 1fr 1fr; gap: 1.5rem 1rem; }
+  .tile { grid-column: 1 / -1; grid-row: auto; width: 76px; }
+  .col:last-child { grid-column: 1 / -1; }
+  .inner { padding-top: 5rem; min-height: 0; }
+}
+
