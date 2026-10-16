@@ -12,10 +12,11 @@ function factsLine(f) {
 /**
  * Index of all 11 cottages linking into the accommodation selector.
  * Pointer devices get a live photo preview; touch devices get inline thumbs.
- * Cottages without photographs show a plain neutral panel, never a
+ * Cottages without photographs show a labelled photo of the Alaya grounds
+ * (never presented as that cottage), never a
  * borrowed image.
  */
-export default function CottageIndex({ cottages }) {
+export default function CottageIndex({ cottages, grounds }) {
   const [hover, setHover] = useState(cottages.findIndex((c) => c.thumb));
   const current = cottages[hover];
 
@@ -32,11 +33,10 @@ export default function CottageIndex({ cottages }) {
               aria-current={hover === i ? 'true' : undefined}
             >
               <span className={styles.cottageThumb} aria-hidden="true">
-                {c.thumb ? (
-                  <img src={`${c.thumb.src}-${c.thumb.widths[0]}.webp`} alt="" width={c.thumb.w} height={c.thumb.h} loading="lazy" decoding="async" />
-                ) : (
-                  <span className={styles.noThumb} />
-                )}
+                {(() => {
+                  const t = c.thumb ?? grounds;
+                  return <img src={`${t.src}-${t.widths[0]}.webp`} alt="" width={t.w} height={t.h} loading="lazy" decoding="async" />;
+                })()}
               </span>
               <span className={styles.cottageName}>{c.name}</span>
               <span className={styles.cottageMeta}>
@@ -69,11 +69,19 @@ export default function CottageIndex({ cottages }) {
               />
             ) : null
           )}
-          {current && !current.thumb && (
-            <div className={styles.previewEmpty}>
-              <span>Photographs of {current.name} are not yet available</span>
-            </div>
-          )}
+          {/* grounds photo for cottages without their own photographs */}
+          <img
+            className={`${styles.previewImg} ${current && !current.thumb ? styles.previewOn : ''}`}
+            src={`${grounds.src}-1024.webp`}
+            srcSet={grounds.widths.filter((w) => w <= 1600).map((w) => `${grounds.src}-${w}.webp ${w}w`).join(', ')}
+            sizes="(min-width: 1440px) 440px, 30vw"
+            width={grounds.w}
+            height={grounds.h}
+            alt=""
+            loading="lazy"
+            decoding="async"
+          />
+          {current && !current.thumb && <span className={styles.previewNote}>Alaya grounds · cottage photos to follow</span>}
         </div>
         {current && (
           <p className={styles.previewCaption}>

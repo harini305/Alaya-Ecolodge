@@ -102,6 +102,11 @@ button { font: inherit; color: inherit; }
 /* Page endings: closing photos and the About contact section each leave
    --end-pad before the footer, so nothing touches the video band. */
 
+/* Lenis smooth scrolling (see SmoothScroll.jsx) */
+html.lenis, html.lenis body { height: auto; }
+.lenis.lenis-smooth { scroll-behavior: auto !important; }
+.lenis.lenis-stopped { overflow: hidden; }
+
 /* ---------- Utilities ---------- */
 .container {
   width: 100%;

@@ -11,7 +11,7 @@ function isActive(pathname, href) {
 }
 
 /**
- * Green header: scroll-progress line, original white logo + name, spaced uppercase nav
+ * Green header: original white logo + name, spaced uppercase nav
  * with an underline active state, and a dark "Enquire" button (-> contact).
  * Mobile: full-screen menu overlay (Escape closes, focus is contained).
  * Hides while scrolling down, returns on scroll up.
@@ -23,7 +23,6 @@ export default function SiteHeader({ nav, logo, contact }) {
   const [scrolled, setScrolled] = useState(false);
   const panelRef = useRef(null);
   const toggleRef = useRef(null);
-  const progressRef = useRef(null);
 
   // Close the menu on navigation.
   const [lastPath, setLastPath] = useState(pathname);
@@ -40,8 +39,6 @@ export default function SiteHeader({ nav, logo, contact }) {
       ticking = true;
       requestAnimationFrame(() => {
         const y = window.scrollY;
-        const max = document.documentElement.scrollHeight - window.innerHeight;
-        if (progressRef.current) progressRef.current.style.transform = `scaleX(${max > 0 ? Math.min(1, y / max) : 0})`;
         setScrolled(y > 8);
         setHidden(y > 240 && y > lastY + 2);
         if (y < lastY - 2) setHidden(false);
@@ -58,6 +55,7 @@ export default function SiteHeader({ nav, logo, contact }) {
     const panel = panelRef.current;
     const toggle = toggleRef.current;
     document.documentElement.style.overflow = 'hidden';
+    window.__lenis?.stop();
 
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     const items = panel.querySelectorAll('[data-menu-item]');
@@ -91,6 +89,7 @@ export default function SiteHeader({ nav, logo, contact }) {
     document.addEventListener('keydown', onKey);
     return () => {
       document.documentElement.style.overflow = '';
+      window.__lenis?.start();
       document.removeEventListener('keydown', onKey);
       tween?.kill();
     };
@@ -100,7 +99,6 @@ export default function SiteHeader({ nav, logo, contact }) {
     <header
       className={`${styles.header} ${hidden && !open ? styles.hidden : ''} ${scrolled ? styles.scrolled : ''} ${open ? styles.open : ''}`}
     >
-      <span ref={progressRef} className={styles.progress} aria-hidden="true" />
       <div className={styles.bar}>
         <Link href="/" className={styles.brand} aria-label="Alaya Ecolodge — home">
           <img

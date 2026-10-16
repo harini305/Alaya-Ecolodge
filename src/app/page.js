@@ -81,7 +81,7 @@ export default function HomePage() {
             {accommodation.intro.paragraphs[3]}
           </p>
         </div>
-        <CottageIndex cottages={cottages} />
+        <CottageIndex cottages={cottages} grounds={media(accommodation.hero.image)} />
       </section>
 
       <RetreatPreview heading={retreats.programmesHeading} labels={retreats.detailLabels} items={nextRetreats} />

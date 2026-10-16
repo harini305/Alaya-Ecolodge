@@ -31,7 +31,8 @@ export default function ScrollToTop() {
       return;
     }
     if (window.location.hash) return;
-    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+    if (window.__lenis) window.__lenis.scrollTo(0, { immediate: true, force: true });
+    else window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
   }, [pathname]);
 
   return null;

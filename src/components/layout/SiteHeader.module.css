@@ -11,19 +11,6 @@
 .hidden { transform: translateY(-100%); }
 .scrolled { box-shadow: 0 8px 28px rgb(20 40 30 / 0.2); }
 
-/* reading-progress line on the top edge */
-.progress {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  background: var(--peach-light);
-  transform: scaleX(0);
-  transform-origin: left;
-  pointer-events: none;
-}
-
 .bar {
   display: flex;
   align-items: center;

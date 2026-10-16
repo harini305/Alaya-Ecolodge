@@ -5,6 +5,7 @@ import { media } from '@/lib/media';
 import SiteHeader from '@/components/layout/SiteHeader';
 import Footer from '@/components/layout/Footer';
 import ScrollToTop from '@/components/layout/ScrollToTop';
+import SmoothScroll from '@/components/layout/SmoothScroll';
 
 export const metadata = {
   metadataBase: new URL(site.url),
@@ -32,6 +33,7 @@ export default function RootLayout({ children }) {
         <script dangerouslySetInnerHTML={{ __html: motionScript }} />
       </head>
       <body>
+        <SmoothScroll />
         <ScrollToTop />
         <a href="#main" className="skip-link">
           Skip to main content

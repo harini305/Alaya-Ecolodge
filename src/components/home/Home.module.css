@@ -520,3 +520,16 @@
   .heroCue { display: none; }
   .cottageMeta span + span { display: none; }
 }
+
+.previewNote {
+  position: absolute;
+  left: 0.75rem;
+  bottom: 0.75rem;
+  z-index: 2;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  background: rgb(33 58 51 / 0.82);
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 600;
+}

@@ -16,7 +16,7 @@ const pick = (m, want) => `${m.src}-${m.widths.find((w) => w >= want) ?? m.width
  * Touch: horizontal swipe. Only the active cottage's gallery is mounted, and
  * thumbnails are small (480w) lazy images.
  */
-export default function CottageGallery({ name, images }) {
+export default function CottageGallery({ name, images, grounds }) {
   const [index, setIndex] = useState(0);
   const [lightbox, setLightbox] = useState(false);
   const stageImg = useRef(null);
@@ -60,10 +60,26 @@ export default function CottageGallery({ name, images }) {
   }, [index]);
 
   if (!count) {
+    // No photographs of this cottage exist yet: show the Alaya grounds,
+    // clearly labelled so it is never mistaken for the cottage itself.
     return (
-      <div className={styles.empty}>
-        <p>Photographs of {name} are not yet available.</p>
-      </div>
+      <figure className={styles.empty}>
+        {grounds && (
+          <img
+            src={pick(grounds.m, 960)}
+            srcSet={srcSet(grounds.m)}
+            sizes="(min-width: 1100px) 760px, 100vw"
+            width={grounds.m.w}
+            height={grounds.m.h}
+            alt={grounds.alt}
+            loading="lazy"
+            decoding="async"
+          />
+        )}
+        <figcaption className={styles.emptyNote}>
+          Photographs of {name} are not yet available · showing the Alaya grounds
+        </figcaption>
+      </figure>
     );
   }
 

@@ -20,7 +20,7 @@ Rule applied throughout: **source copy is reproduced verbatim**; conflicting or 
 
 ## 2. Missing photographs (Q5)
 
-**Nasi Kuning, Pisang Goreng, Dadar Gulung, Bubur Injin** have no photos in the collected assets. All four stay in the selector and the home index. In place of a gallery they show a neutral sage panel with a line-drawn frond and the text "Photographs of {name} are not yet available." **No other image is substituted**, and the home index shows a plain sage swatch for them. To add photos later, put the files in `source-assets/`, add rows to the manifest, list the media-ids under the cottage in `accommodation.json`, and run `npm run images`.
+**Nasi Kuning, Pisang Goreng, Dadar Gulung, Bubur Injin** have no photos in the collected assets. All four stay in the selector and in the home index. In place of their own photos they show a general **Alaya grounds** photo (the original accommodation hero panorama), always captioned "Photographs of {name} are not yet available · showing the Alaya grounds" (home preview: "Alaya grounds · cottage photos to follow"). It is never presented as the cottage itself. To add real photos: put the files in `source-assets/`, add rows to the manifest, list the media-ids under the cottage in `accommodation.json`, and run `npm run images`.
 
 ## 3. Typos and wording preserved verbatim (Q1, Q2)
 

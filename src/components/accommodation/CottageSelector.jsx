@@ -20,7 +20,7 @@ const FACT_LABELS = [
  * chips on mobile) driving one detail panel. Deep-linkable via #slug, which
  * is also how the homepage cottage index links in.
  */
-export default function CottageSelector({ cottages, defaultSlug, booking }) {
+export default function CottageSelector({ cottages, defaultSlug, booking, grounds }) {
   const defaultIndex = Math.max(0, cottages.findIndex((c) => c.slug === defaultSlug));
   const [active, setActive] = useState(defaultIndex);
   const tabRefs = useRef([]);
@@ -119,7 +119,7 @@ export default function CottageSelector({ cottages, defaultSlug, booking }) {
         </header>
 
         <div data-panel-part>
-          <CottageGallery key={c.slug} name={c.name} images={c.images} />
+          <CottageGallery key={c.slug} name={c.name} images={c.images} grounds={grounds} />
         </div>
 
         <div className={styles.details} data-panel-part>

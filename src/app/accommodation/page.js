@@ -66,7 +66,12 @@ export default function AccommodationPage() {
             {cottages.length} cottages · select one to see its photographs and details
           </p>
         </div>
-        <CottageSelector cottages={cottages} defaultSlug={defaultSlug} booking={site.booking} />
+        <CottageSelector
+          cottages={cottages}
+          defaultSlug={defaultSlug}
+          booking={site.booking}
+          grounds={{ m: media(content.hero.image), alt: content.hero.alt }}
+        />
       </section>
 
       {/* Amenities */}
